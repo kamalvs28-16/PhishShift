@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score,False Positive Rate
+rule_based,0.9392523364485982,1.0,0.7678571428571429,0.8686868686868687,0.0
+tfidf_logistic_regression,1.0,1.0,1.0,1.0,0.0
+tfidf_linear_svm,1.0,1.0,1.0,1.0,0.0

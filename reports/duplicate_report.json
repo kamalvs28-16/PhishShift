@@ -1,0 +1,117 @@
+{
+    "original_message_count": 768,
+    "valid_message_count": 768,
+    "invalid_message_count": 0,
+    "empty_normalized_message_count": 0,
+    "conflicting_label_message_count": 0,
+    "removed_exact_duplicate_count": 128,
+    "cleaned_message_count": 640,
+    "near_duplicate_similarity_threshold": 0.98,
+    "near_duplicate_pair_count": 14,
+    "near_duplicate_pairs": [
+        {
+            "message_id_1": "MSG-00388",
+            "message_id_2": "MSG-00401",
+            "similarity": 0.9845,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00388",
+            "message_id_2": "MSG-00399",
+            "similarity": 0.9809,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00112",
+            "message_id_2": "MSG-00104",
+            "similarity": 0.9863,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00115",
+            "message_id_2": "MSG-00104",
+            "similarity": 0.9829,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00491",
+            "message_id_2": "MSG-00483",
+            "similarity": 0.9836,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00357",
+            "message_id_2": "MSG-00370",
+            "similarity": 0.9848,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00137",
+            "message_id_2": "MSG-00130",
+            "similarity": 0.9824,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00366",
+            "message_id_2": "MSG-00355",
+            "similarity": 0.9865,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00358",
+            "message_id_2": "MSG-00370",
+            "similarity": 0.9871,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00160",
+            "message_id_2": "MSG-00158",
+            "similarity": 0.98,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00177",
+            "message_id_2": "MSG-00176",
+            "similarity": 0.9855,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00257",
+            "message_id_2": "MSG-00279",
+            "similarity": 0.9821,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00353",
+            "message_id_2": "MSG-00373",
+            "similarity": 0.9885,
+            "same_label": true,
+            "same_campaign": true
+        },
+        {
+            "message_id_1": "MSG-00091",
+            "message_id_2": "MSG-00085",
+            "similarity": 0.9817,
+            "same_label": true,
+            "same_campaign": true
+        }
+    ],
+    "label_distribution": {
+        "legitimate": 433,
+        "phishing": 207
+    },
+    "campaign_group_count": 24,
+    "note": "Near-duplicate pairs are flagged for review, not automatically removed. Exact duplicates are removed using normalized message text. This report does not by itself prove that campaign leakage has been eliminated."
+}

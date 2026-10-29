@@ -1,0 +1,769 @@
+message_id,text,label,campaign
+MSG-00351,For your information: The assignment instructions are available through your official course portal. Thank you.,legitimate,legitimate_assignment
+MSG-00378,For your information: Your requested library book is available for collection during normal library hours. Please use the official website or portal.,legitimate,legitimate_library
+MSG-00744,Warning: Your refund is pending. Submit your banking credentials to receive the payment. Do not delay this action.,phishing,phishing_refund_alert
+MSG-00433,Update: Today's class has been moved to Room 204. Confirm the update with your department. Thank you.,legitimate,legitimate_classroom
+MSG-00520,Immediate action required: Your account will be disabled unless you verify your login details immediately. Failure to respond may restrict access.,phishing,phishing_account_alert
+MSG-00672,Immediate action required: You have won a special reward. Submit your personal information to claim it. Act now to avoid suspension.,phishing,phishing_reward_alert
+MSG-00066,"Hello, Your security settings were updated. Contact official support if you did not make this change.",legitimate,legitimate_security
+MSG-00270,Please note: Your weekly class timetable is available from your college office. Please use the official website or portal.,legitimate,legitimate_college_timetable
+MSG-00497,Notice: Registration details for the campus event are available through the official college website.,legitimate,legitimate_campus_event
+MSG-00049,Update: Your recent payment has been recorded. The receipt is available online. Please review the details when convenient.,legitimate,legitimate_billing
+MSG-00339,Information: Your assignment submission deadline is Monday. Check your course portal for the requirements. Contact the official office if you need assistance.,legitimate,legitimate_assignment
+MSG-00388,The examination timetable has been published. Check the official college notice board. Please use the official website or portal.,legitimate,legitimate_examination
+MSG-00041,Notice: Your monthly bill is available in your account. Please review the details when convenient.,legitimate,legitimate_billing
+MSG-00121,Information: Your support request has been received. Check its status through the official support portal. Contact the official office if you need assistance.,legitimate,legitimate_support
+MSG-00112,Notice: Your support request has been received. Check its status through the official support portal. Please review the details when convenient.,legitimate,legitimate_support
+MSG-00032,Update: Your account statement is available through the official website. Please use the official website or portal.,legitimate,legitimate_account
+MSG-00411,Reminder: The examination timetable has been published. Check the official college notice board. Please use the official website or portal.,legitimate,legitimate_examination
+MSG-00352,Notice: The assignment instructions are available through your official course portal. Please review the details when convenient.,legitimate,legitimate_assignment
+MSG-00212,For your information: The meeting agenda is available in the shared workspace. Please use the official website or portal.,legitimate,legitimate_meeting
+MSG-00437,For your information: Today's class has been moved to Room 204. Confirm the update with your department. Please use the official website or portal.,legitimate,legitimate_classroom
+MSG-00730,Urgent: A confidential document is waiting. Enter your account password to view it. Failure to respond may restrict access.,phishing,phishing_document_alert
+MSG-00310,Notice: The department meeting is scheduled for Friday at 10 AM. Please use the official website or portal.,legitimate,legitimate_department_meeting
+MSG-00575,Urgent: Submit your account details immediately to prevent payment service interruption. Verify your details immediately.,phishing,phishing_payment_alert
+MSG-00417,Tomorrow's lecture will begin at 9 AM in the usual classroom. Contact the official office if you need assistance.,legitimate,legitimate_classroom
+MSG-00436,Notice: Tomorrow's lecture will begin at 9 AM in the usual classroom. Thank you.,legitimate,legitimate_classroom
+MSG-00046,Your monthly bill is available in your account. Thank you.,legitimate,legitimate_billing
+MSG-00528,Warning: Your account will be disabled unless you verify your login details immediately. Verify your details immediately.,phishing,phishing_account_alert
+MSG-00511,Update: Registration details for the campus event are available through the official college website. Thank you.,legitimate,legitimate_campus_event
+MSG-00255,Reminder: Your subscription payment receipt is available in your account. Contact the official office if you need assistance.,legitimate,legitimate_subscription
+MSG-00686,Immediate action required: Suspicious activity detected. Verify your credentials to prevent account closure.,phishing,phishing_security_alert
+MSG-00134,Please note: Your package is scheduled for delivery. Check the official tracking service for details. Please review the details when convenient.,legitimate,legitimate_delivery
+MSG-00080,"Hello, A new sign-in was recorded. Review your security settings through the official website if needed.",legitimate,legitimate_security
+MSG-00725,Urgent: A confidential document is waiting. Enter your account password to view it. Do not delay this action.,phishing,phishing_document_alert
+MSG-00183,"For your information: You requested a password reset. If this was you, continue through the official website.",legitimate,legitimate_password
+MSG-00457,"Hello, Your attendance summary is available through the college portal.",legitimate,legitimate_attendance
+MSG-00196,"Hello, The team meeting is scheduled for Friday at 10 AM. Please use the official website or portal.",legitimate,legitimate_meeting
+MSG-00660,You have won a special reward. Submit your personal information to claim it. Do not delay this action.,phishing,phishing_reward_alert
+MSG-00661,Urgent: You have won a special reward. Submit your personal information to claim it.,phishing,phishing_reward_alert
+MSG-00243,Reminder: Your subscription renewal date is approaching. Review your plan through the official account portal.,legitimate,legitimate_subscription
+MSG-00285,Please note: The updated class timetable is available on the official college notice board. Please review the details when convenient.,legitimate,legitimate_college_timetable
+MSG-00693,Suspicious activity detected. Verify your credentials to prevent account closure.,phishing,phishing_security_alert
+MSG-00767,Urgent: Confirm your payment information immediately to process your refund. Do not delay this action.,phishing,phishing_refund_alert
+MSG-00713,Security alert: A confidential document is waiting. Enter your account password to view it. Failure to respond may restrict access.,phishing,phishing_document_alert
+MSG-00684,Security alert: Suspicious activity detected. Verify your credentials to prevent account closure. Failure to respond may restrict access.,phishing,phishing_security_alert
+MSG-00281,Reminder: The updated class timetable is available on the official college notice board. Contact the official office if you need assistance.,legitimate,legitimate_college_timetable
+MSG-00427,Notice: Today's class has been moved to Room 204. Confirm the update with your department. Thank you.,legitimate,legitimate_classroom
+MSG-00590,Important notice: Your password has expired. Verify your credentials immediately to restore access. Verify your details immediately.,phishing,phishing_password_alert
+MSG-00723,Immediate action required: Verify your credentials to access this urgent document.,phishing,phishing_document_alert
+MSG-00301,The department meeting agenda is available from your department office. Please use the official website or portal.,legitimate,legitimate_department_meeting
+MSG-00461,"Hello, The monthly attendance report is available from your department office. Thank you.",legitimate,legitimate_attendance
+MSG-00673,Account notice: Suspicious activity detected. Verify your credentials to prevent account closure. Failure to respond may restrict access.,phishing,phishing_security_alert
+MSG-00697,Important notice: Your account security is at risk. Confirm your login details immediately. Do not delay this action.,phishing,phishing_security_alert
+MSG-00052,For your information: Your recent payment has been recorded. The receipt is available online. Please use the official website or portal.,legitimate,legitimate_billing
+MSG-00504,Please note: The college cultural event will take place next Friday. Refer to the official college notice. Contact the official office if you need assistance.,legitimate,legitimate_campus_event
+MSG-00272,Information: Your weekly class timetable is available from your college office. Please use the official website or portal.,legitimate,legitimate_college_timetable
+MSG-00374,Notice: Your requested library book is available for collection during normal library hours.,legitimate,legitimate_library
+MSG-00322,Your assignment submission deadline is Monday. Check your course portal for the requirements. Please use the official website or portal.,legitimate,legitimate_assignment
+MSG-00261,Update: Your weekly class timetable is available from your college office. Contact the official office if you need assistance.,legitimate,legitimate_college_timetable
+MSG-00214,The meeting agenda is available in the shared workspace.,legitimate,legitimate_meeting
+MSG-00233,Reminder: Your subscription renewal date is approaching. Review your plan through the official account portal. Contact the official office if you need assistance.,legitimate,legitimate_subscription
+MSG-00045,"Hello, Your monthly bill is available in your account. Please review the details when convenient.",legitimate,legitimate_billing
+MSG-00120,Information: Our support team has updated your service request. Thank you.,legitimate,legitimate_support
+MSG-00662,Warning: You have won a special reward. Submit your personal information to claim it. Act now to avoid suspension.,phishing,phishing_reward_alert
+MSG-00636,Urgent: Delivery failed. Confirm your account information to reschedule your package. Act now to avoid suspension.,phishing,phishing_delivery_alert
+MSG-00421,Please note: Tomorrow's lecture will begin at 9 AM in the usual classroom.,legitimate,legitimate_classroom
+MSG-00149,Please note: Your delivery status has been updated on the official delivery service website. Contact the official office if you need assistance.,legitimate,legitimate_delivery
+MSG-00002,Information: Your account statement is available through the official website. Thank you.,legitimate,legitimate_account
+MSG-00604,Urgent: Confirm your password immediately to avoid account suspension. Act now to avoid suspension.,phishing,phishing_password_alert
+MSG-00067,Information: A new sign-in was recorded. Review your security settings through the official website if needed. Thank you.,legitimate,legitimate_security
+MSG-00695,Warning: Your account security is at risk. Confirm your login details immediately. Do not delay this action.,phishing,phishing_security_alert
+MSG-00384,Reminder: Your requested library book is available for collection during normal library hours. Please review the details when convenient.,legitimate,legitimate_library
+MSG-00639,Immediate action required: Delivery failed. Confirm your account information to reschedule your package. Act now to avoid suspension.,phishing,phishing_delivery_alert
+MSG-00691,Important notice: Your account security is at risk. Confirm your login details immediately. Do not delay this action.,phishing,phishing_security_alert
+MSG-00263,For your information: The updated class timetable is available on the official college notice board.,legitimate,legitimate_college_timetable
+MSG-00519,Your account will be disabled unless you verify your login details immediately. Verify your details immediately.,phishing,phishing_account_alert
+MSG-00207,"Hello, The meeting agenda is available in the shared workspace. Thank you.",legitimate,legitimate_meeting
+MSG-00484,Registration details for the campus event are available through the official college website. Contact the official office if you need assistance.,legitimate,legitimate_campus_event
+MSG-00667,Warning: Congratulations! Verify your account details to receive your prize. Failure to respond may restrict access.,phishing,phishing_reward_alert
+MSG-00324,Information: The assignment instructions are available through your official course portal. Thank you.,legitimate,legitimate_assignment
+MSG-00040,Your recent payment has been recorded. The receipt is available online. Please review the details when convenient.,legitimate,legitimate_billing
+MSG-00453,Please note: The monthly attendance report is available from your department office. Contact the official office if you need assistance.,legitimate,legitimate_attendance
+MSG-00644,Warning: Congratulations! Verify your account details to receive your prize. Failure to respond may restrict access.,phishing,phishing_reward_alert
+MSG-00111,"Hello, Your support request has been received. Check its status through the official support portal. Thank you.",legitimate,legitimate_support
+MSG-00425,"Hello, Tomorrow's lecture will begin at 9 AM in the usual classroom. Thank you.",legitimate,legitimate_classroom
+MSG-00440,For your information: Today's class has been moved to Room 204. Confirm the update with your department. Please review the details when convenient.,legitimate,legitimate_classroom
+MSG-00624,Urgent: Delivery failed. Confirm your account information to reschedule your package. Do not delay this action.,phishing,phishing_delivery_alert
+MSG-00364,"Hello, The library will remain closed on Sunday. Normal opening hours resume on Monday. Thank you.",legitimate,legitimate_library
+MSG-00159,Reminder: Your delivery status has been updated on the official delivery service website. Please use the official website or portal.,legitimate,legitimate_delivery
+MSG-00746,Confirm your payment information immediately to process your refund. Do not delay this action.,phishing,phishing_refund_alert
+MSG-00750,Warning: Confirm your payment information immediately to process your refund. Failure to respond may restrict access.,phishing,phishing_refund_alert
+MSG-00343,Your assignment submission deadline is Monday. Check your course portal for the requirements.,legitimate,legitimate_assignment
+MSG-00293,Please note: The department meeting agenda is available from your department office. Thank you.,legitimate,legitimate_department_meeting
+MSG-00464,Update: The monthly attendance report is available from your department office. Thank you.,legitimate,legitimate_attendance
+MSG-00039,Please note: Your recent payment has been recorded. The receipt is available online. Thank you.,legitimate,legitimate_billing
+MSG-00175,Update: Your password reset request has been received. Visit the official website directly if you need to review it. Contact the official office if you need assistance.,legitimate,legitimate_password
+MSG-00329,Update: The assignment instructions are available through your official course portal. Thank you.,legitimate,legitimate_assignment
+MSG-00542,Account notice: Your account will be disabled unless you verify your login details immediately.,phishing,phishing_account_alert
+MSG-00026,Reminder: Your monthly account summary is ready for review.,legitimate,legitimate_account
+MSG-00591,Immediate action required: Confirm your password immediately to avoid account suspension. Act now to avoid suspension.,phishing,phishing_password_alert
+MSG-00558,Urgent: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Failure to respond may restrict access.,phishing,phishing_payment_alert
+MSG-00714,Warning: Verify your credentials to access this urgent document.,phishing,phishing_document_alert
+MSG-00241,Reminder: Your subscription payment receipt is available in your account. Please use the official website or portal.,legitimate,legitimate_subscription
+MSG-00021,Reminder: Your account statement is available through the official website.,legitimate,legitimate_account
+MSG-00645,Important notice: Congratulations! Verify your account details to receive your prize. Act now to avoid suspension.,phishing,phishing_reward_alert
+MSG-00748,Confirm your payment information immediately to process your refund. Verify your details immediately.,phishing,phishing_refund_alert
+MSG-00749,Account notice: Confirm your payment information immediately to process your refund. Do not delay this action.,phishing,phishing_refund_alert
+MSG-00115,Update: Your support request has been received. Check its status through the official support portal. Please review the details when convenient.,legitimate,legitimate_support
+MSG-00600,Account notice: Your password has expired. Verify your credentials immediately to restore access. Act now to avoid suspension.,phishing,phishing_password_alert
+MSG-00761,Important notice: Your refund is pending. Submit your banking credentials to receive the payment. Failure to respond may restrict access.,phishing,phishing_refund_alert
+MSG-00536,Urgent: Your account is restricted. Verify your credentials immediately. Do not delay this action.,phishing,phishing_account_alert
+MSG-00682,Suspicious activity detected. Verify your credentials to prevent account closure. Verify your details immediately.,phishing,phishing_security_alert
+MSG-00687,Urgent: Suspicious activity detected. Verify your credentials to prevent account closure. Failure to respond may restrict access.,phishing,phishing_security_alert
+MSG-00608,Account notice: Your password has expired. Verify your credentials immediately to restore access.,phishing,phishing_password_alert
+MSG-00122,Reminder: Our support team has updated your service request.,legitimate,legitimate_support
+MSG-00718,Security alert: A confidential document is waiting. Enter your account password to view it.,phishing,phishing_document_alert
+MSG-00063,Please note: Your monthly bill is available in your account. Please review the details when convenient.,legitimate,legitimate_billing
+MSG-00129,Reminder: Your delivery status has been updated on the official delivery service website.,legitimate,legitimate_delivery
+MSG-00587,Urgent: Your password has expired. Verify your credentials immediately to restore access. Failure to respond may restrict access.,phishing,phishing_password_alert
+MSG-00142,Information: Your package is scheduled for delivery. Check the official tracking service for details. Please use the official website or portal.,legitimate,legitimate_delivery
+MSG-00292,"Hello, The department meeting is scheduled for Friday at 10 AM. Contact the official office if you need assistance.",legitimate,legitimate_department_meeting
+MSG-00359,Information: The library will remain closed on Sunday. Normal opening hours resume on Monday. Thank you.,legitimate,legitimate_library
+MSG-00517,Important notice: Your account is restricted. Verify your credentials immediately. Verify your details immediately.,phishing,phishing_account_alert
+MSG-00190,Update: Your password reset request has been received. Visit the official website directly if you need to review it. Please use the official website or portal.,legitimate,legitimate_password
+MSG-00450,Update: Your attendance summary is available through the college portal.,legitimate,legitimate_attendance
+MSG-00042,Update: Your monthly bill is available in your account. Please review the details when convenient.,legitimate,legitimate_billing
+MSG-00163,Notice: Your password reset request has been received. Visit the official website directly if you need to review it. Thank you.,legitimate,legitimate_password
+MSG-00724,Warning: A confidential document is waiting. Enter your account password to view it. Verify your details immediately.,phishing,phishing_document_alert
+MSG-00391,Reminder: Your examination hall allocation is available through the official college portal. Please review the details when convenient.,legitimate,legitimate_examination
+MSG-00498,Registration details for the campus event are available through the official college website. Please use the official website or portal.,legitimate,legitimate_campus_event
+MSG-00751,Urgent: Confirm your payment information immediately to process your refund. Verify your details immediately.,phishing,phishing_refund_alert
+MSG-00320,Reminder: The department meeting agenda is available from your department office. Please review the details when convenient.,legitimate,legitimate_department_meeting
+MSG-00616,Account notice: Delivery failed. Confirm your account information to reschedule your package. Do not delay this action.,phishing,phishing_delivery_alert
+MSG-00674,Urgent: Your account security is at risk. Confirm your login details immediately. Verify your details immediately.,phishing,phishing_security_alert
+MSG-00592,Security alert: Confirm your password immediately to avoid account suspension. Do not delay this action.,phishing,phishing_password_alert
+MSG-00653,Important notice: Congratulations! Verify your account details to receive your prize.,phishing,phishing_reward_alert
+MSG-00001,Your account statement is available through the official website. Please review the details when convenient.,legitimate,legitimate_account
+MSG-00084,Information: A new sign-in was recorded. Review your security settings through the official website if needed. Contact the official office if you need assistance.,legitimate,legitimate_security
+MSG-00434,Update: Tomorrow's lecture will begin at 9 AM in the usual classroom. Please review the details when convenient.,legitimate,legitimate_classroom
+MSG-00117,Notice: Your support request has been received. Check its status through the official support portal. Contact the official office if you need assistance.,legitimate,legitimate_support
+MSG-00326,Reminder: Your assignment submission deadline is Monday. Check your course portal for the requirements. Contact the official office if you need assistance.,legitimate,legitimate_assignment
+MSG-00535,Security alert: Your account will be disabled unless you verify your login details immediately. Act now to avoid suspension.,phishing,phishing_account_alert
+MSG-00491,For your information: The college cultural event will take place next Friday. Refer to the official college notice. Contact the official office if you need assistance.,legitimate,legitimate_campus_event
+MSG-00104,Your support request has been received. Check its status through the official support portal. Please review the details when convenient.,legitimate,legitimate_support
+MSG-00024,"Hello, Your account statement is available through the official website.",legitimate,legitimate_account
+MSG-00020,"Hello, Your account statement is available through the official website. Please review the details when convenient.",legitimate,legitimate_account
+MSG-00317,For your information: The department meeting agenda is available from your department office. Please review the details when convenient.,legitimate,legitimate_department_meeting
+MSG-00097,Reminder: Your support request has been received. Check its status through the official support portal.,legitimate,legitimate_support
+MSG-00477,Please note: The monthly attendance report is available from your department office. Thank you.,legitimate,legitimate_attendance
+MSG-00166,Please note: Your password reset request has been received. Visit the official website directly if you need to review it. Please review the details when convenient.,legitimate,legitimate_password
+MSG-00741,Account notice: Your refund is pending. Submit your banking credentials to receive the payment. Do not delay this action.,phishing,phishing_refund_alert
+MSG-00037,Your recent payment has been recorded. The receipt is available online.,legitimate,legitimate_billing
+MSG-00372,For your information: The library will remain closed on Sunday. Normal opening hours resume on Monday. Contact the official office if you need assistance.,legitimate,legitimate_library
+MSG-00506,Registration details for the campus event are available through the official college website. Please review the details when convenient.,legitimate,legitimate_campus_event
+MSG-00186,"Information: You requested a password reset. If this was you, continue through the official website.",legitimate,legitimate_password
+MSG-00546,Immediate action required: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Do not delay this action.,phishing,phishing_payment_alert
+MSG-00737,Urgent: Your refund is pending. Submit your banking credentials to receive the payment.,phishing,phishing_refund_alert
+MSG-00468,"Hello, Your attendance summary is available through the college portal. Please use the official website or portal.",legitimate,legitimate_attendance
+MSG-00619,Account notice: Delivery failed. Confirm your account information to reschedule your package. Act now to avoid suspension.,phishing,phishing_delivery_alert
+MSG-00311,Information: The department meeting agenda is available from your department office. Contact the official office if you need assistance.,legitimate,legitimate_department_meeting
+MSG-00375,Update: Your requested library book is available for collection during normal library hours.,legitimate,legitimate_library
+MSG-00178,"For your information: You requested a password reset. If this was you, continue through the official website. Thank you.",legitimate,legitimate_password
+MSG-00313,For your information: The department meeting agenda is available from your department office. Please review the details when convenient.,legitimate,legitimate_department_meeting
+MSG-00397,Reminder: The examination timetable has been published. Check the official college notice board. Please review the details when convenient.,legitimate,legitimate_examination
+MSG-00025,Your account statement is available through the official website. Please review the details when convenient.,legitimate,legitimate_account
+MSG-00132,"Hello, Your delivery status has been updated on the official delivery service website. Please use the official website or portal.",legitimate,legitimate_delivery
+MSG-00392,Information: The examination timetable has been published. Check the official college notice board. Thank you.,legitimate,legitimate_examination
+MSG-00223,Information: The team meeting is scheduled for Friday at 10 AM. Thank you.,legitimate,legitimate_meeting
+MSG-00502,Update: Registration details for the campus event are available through the official college website.,legitimate,legitimate_campus_event
+MSG-00240,Reminder: Your subscription payment receipt is available in your account. Please use the official website or portal.,legitimate,legitimate_subscription
+MSG-00648,Urgent: Congratulations! Verify your account details to receive your prize. Act now to avoid suspension.,phishing,phishing_reward_alert
+MSG-00357,Update: The library will remain closed on Sunday. Normal opening hours resume on Monday. Please use the official website or portal.,legitimate,legitimate_library
+MSG-00629,Immediate action required: Delivery failed. Confirm your account information to reschedule your package.,phishing,phishing_delivery_alert
+MSG-00766,Urgent: Your refund is pending. Submit your banking credentials to receive the payment.,phishing,phishing_refund_alert
+MSG-00757,Immediate action required: Your refund is pending. Submit your banking credentials to receive the payment. Act now to avoid suspension.,phishing,phishing_refund_alert
+MSG-00137,Update: Your package is scheduled for delivery. Check the official tracking service for details. Please use the official website or portal.,legitimate,legitimate_delivery
+MSG-00306,"Hello, The department meeting is scheduled for Friday at 10 AM.",legitimate,legitimate_department_meeting
+MSG-00146,Update: Your delivery status has been updated on the official delivery service website.,legitimate,legitimate_delivery
+MSG-00016,Notice: Your account statement is available through the official website.,legitimate,legitimate_account
+MSG-00180,Information: Your password reset request has been received. Visit the official website directly if you need to review it. Contact the official office if you need assistance.,legitimate,legitimate_password
+MSG-00490,Reminder: The college cultural event will take place next Friday. Refer to the official college notice. Contact the official office if you need assistance.,legitimate,legitimate_campus_event
+MSG-00447,"Hello, Tomorrow's lecture will begin at 9 AM in the usual classroom. Please use the official website or portal.",legitimate,legitimate_classroom
+MSG-00570,Security alert: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Act now to avoid suspension.,phishing,phishing_payment_alert
+MSG-00607,Important notice: Confirm your password immediately to avoid account suspension. Do not delay this action.,phishing,phishing_password_alert
+MSG-00475,Information: The monthly attendance report is available from your department office. Please review the details when convenient.,legitimate,legitimate_attendance
+MSG-00406,The examination timetable has been published. Check the official college notice board.,legitimate,legitimate_examination
+MSG-00284,Update: Your weekly class timetable is available from your college office.,legitimate,legitimate_college_timetable
+MSG-00269,Reminder: The updated class timetable is available on the official college notice board. Please review the details when convenient.,legitimate,legitimate_college_timetable
+MSG-00228,Reminder: Your subscription renewal date is approaching. Review your plan through the official account portal.,legitimate,legitimate_subscription
+MSG-00561,Security alert: Your payment failed. Confirm your banking credentials immediately to avoid suspension.,phishing,phishing_payment_alert
+MSG-00151,Notice: Your delivery status has been updated on the official delivery service website. Contact the official office if you need assistance.,legitimate,legitimate_delivery
+MSG-00681,Warning: Your account security is at risk. Confirm your login details immediately. Verify your details immediately.,phishing,phishing_security_alert
+MSG-00366,Your requested library book is available for collection during normal library hours. Thank you.,legitimate,legitimate_library
+MSG-00582,Security alert: Confirm your password immediately to avoid account suspension.,phishing,phishing_password_alert
+MSG-00589,Important notice: Your password has expired. Verify your credentials immediately to restore access. Do not delay this action.,phishing,phishing_password_alert
+MSG-00586,Immediate action required: Confirm your password immediately to avoid account suspension.,phishing,phishing_password_alert
+MSG-00522,Warning: Your account will be disabled unless you verify your login details immediately. Failure to respond may restrict access.,phishing,phishing_account_alert
+MSG-00336,Reminder: Your assignment submission deadline is Monday. Check your course portal for the requirements. Please use the official website or portal.,legitimate,legitimate_assignment
+MSG-00068,Update: Your security settings were updated. Contact official support if you did not make this change. Contact the official office if you need assistance.,legitimate,legitimate_security
+MSG-00116,Information: Our support team has updated your service request. Please review the details when convenient.,legitimate,legitimate_support
+MSG-00239,Please note: Your subscription renewal date is approaching. Review your plan through the official account portal. Contact the official office if you need assistance.,legitimate,legitimate_subscription
+MSG-00623,Account notice: Delivery failed. Confirm your account information to reschedule your package. Failure to respond may restrict access.,phishing,phishing_delivery_alert
+MSG-00064,Please note: Your recent payment has been recorded. The receipt is available online. Contact the official office if you need assistance.,legitimate,legitimate_billing
+MSG-00719,Immediate action required: A confidential document is waiting. Enter your account password to view it.,phishing,phishing_document_alert
+MSG-00168,"Please note: You requested a password reset. If this was you, continue through the official website. Contact the official office if you need assistance.",legitimate,legitimate_password
+MSG-00712,Immediate action required: Verify your credentials to access this urgent document. Do not delay this action.,phishing,phishing_document_alert
+MSG-00550,Warning: Submit your account details immediately to prevent payment service interruption. Failure to respond may restrict access.,phishing,phishing_payment_alert
+MSG-00109,Please note: Your support request has been received. Check its status through the official support portal. Thank you.,legitimate,legitimate_support
+MSG-00603,Your password has expired. Verify your credentials immediately to restore access. Failure to respond may restrict access.,phishing,phishing_password_alert
+MSG-00631,Security alert: Delivery failed. Confirm your account information to reschedule your package. Verify your details immediately.,phishing,phishing_delivery_alert
+MSG-00113,Update: Our support team has updated your service request. Thank you.,legitimate,legitimate_support
+MSG-00415,Information: Your examination hall allocation is available through the official college portal. Thank you.,legitimate,legitimate_examination
+MSG-00242,Notice: Your subscription renewal date is approaching. Review your plan through the official account portal. Thank you.,legitimate,legitimate_subscription
+MSG-00011,Notice: Your account statement is available through the official website. Contact the official office if you need assistance.,legitimate,legitimate_account
+MSG-00429,Please note: Tomorrow's lecture will begin at 9 AM in the usual classroom. Please review the details when convenient.,legitimate,legitimate_classroom
+MSG-00218,Please note: The meeting agenda is available in the shared workspace. Please use the official website or portal.,legitimate,legitimate_meeting
+MSG-00739,Account notice: Your refund is pending. Submit your banking credentials to receive the payment.,phishing,phishing_refund_alert
+MSG-00458,"Hello, Your attendance summary is available through the college portal. Please review the details when convenient.",legitimate,legitimate_attendance
+MSG-00211,Notice: The team meeting is scheduled for Friday at 10 AM. Thank you.,legitimate,legitimate_meeting
+MSG-00140,Please note: Your delivery status has been updated on the official delivery service website. Please use the official website or portal.,legitimate,legitimate_delivery
+MSG-00625,Important notice: Your package is on hold. Submit your personal details to release the delivery. Do not delay this action.,phishing,phishing_delivery_alert
+MSG-00622,Your package is on hold. Submit your personal details to release the delivery. Act now to avoid suspension.,phishing,phishing_delivery_alert
+MSG-00030,Reminder: Your account statement is available through the official website. Please use the official website or portal.,legitimate,legitimate_account
+MSG-00147,Information: Your delivery status has been updated on the official delivery service website. Contact the official office if you need assistance.,legitimate,legitimate_delivery
+MSG-00029,Reminder: Your account statement is available through the official website. Thank you.,legitimate,legitimate_account
+MSG-00131,"Hello, Your delivery status has been updated on the official delivery service website. Contact the official office if you need assistance.",legitimate,legitimate_delivery
+MSG-00701,Account notice: Your account security is at risk. Confirm your login details immediately. Do not delay this action.,phishing,phishing_security_alert
+MSG-00127,"Hello, Our support team has updated your service request. Please review the details when convenient.",legitimate,legitimate_support
+MSG-00371,For your information: Your requested library book is available for collection during normal library hours.,legitimate,legitimate_library
+MSG-00198,The meeting agenda is available in the shared workspace. Contact the official office if you need assistance.,legitimate,legitimate_meeting
+MSG-00690,Account notice: Your account security is at risk. Confirm your login details immediately. Verify your details immediately.,phishing,phishing_security_alert
+MSG-00245,Update: Your subscription renewal date is approaching. Review your plan through the official account portal.,legitimate,legitimate_subscription
+MSG-00118,For your information: Your support request has been received. Check its status through the official support portal. Thank you.,legitimate,legitimate_support
+MSG-00563,Security alert: Submit your account details immediately to prevent payment service interruption. Failure to respond may restrict access.,phishing,phishing_payment_alert
+MSG-00569,Security alert: Submit your account details immediately to prevent payment service interruption.,phishing,phishing_payment_alert
+MSG-00074,Information: Your security settings were updated. Contact official support if you did not make this change. Contact the official office if you need assistance.,legitimate,legitimate_security
+MSG-00138,Please note: Your package is scheduled for delivery. Check the official tracking service for details. Please use the official website or portal.,legitimate,legitimate_delivery
+MSG-00640,Warning: Delivery failed. Confirm your account information to reschedule your package. Act now to avoid suspension.,phishing,phishing_delivery_alert
+MSG-00533,Warning: Your account will be disabled unless you verify your login details immediately.,phishing,phishing_account_alert
+MSG-00009,"Hello, Your monthly account summary is ready for review. Please review the details when convenient.",legitimate,legitimate_account
+MSG-00075,Update: A new sign-in was recorded. Review your security settings through the official website if needed. Contact the official office if you need assistance.,legitimate,legitimate_security
+MSG-00057,Information: Your monthly bill is available in your account.,legitimate,legitimate_billing
+MSG-00530,Urgent: Your account will be disabled unless you verify your login details immediately. Failure to respond may restrict access.,phishing,phishing_account_alert
+MSG-00483,Information: The college cultural event will take place next Friday. Refer to the official college notice. Contact the official office if you need assistance.,legitimate,legitimate_campus_event
+MSG-00008,Your monthly account summary is ready for review. Thank you.,legitimate,legitimate_account
+MSG-00145,Reminder: Your delivery status has been updated on the official delivery service website. Thank you.,legitimate,legitimate_delivery
+MSG-00022,Information: Your account statement is available through the official website. Thank you.,legitimate,legitimate_account
+MSG-00043,Your monthly bill is available in your account. Please use the official website or portal.,legitimate,legitimate_billing
+MSG-00694,Important notice: Your account security is at risk. Confirm your login details immediately. Act now to avoid suspension.,phishing,phishing_security_alert
+MSG-00379,Notice: Your requested library book is available for collection during normal library hours.,legitimate,legitimate_library
+MSG-00216,Reminder: The team meeting is scheduled for Friday at 10 AM. Please use the official website or portal.,legitimate,legitimate_meeting
+MSG-00404,Reminder: Your examination hall allocation is available through the official college portal. Please review the details when convenient.,legitimate,legitimate_examination
+MSG-00107,Notice: Your support request has been received. Check its status through the official support portal.,legitimate,legitimate_support
+MSG-00126,Our support team has updated your service request.,legitimate,legitimate_support
+MSG-00342,Please note: The assignment instructions are available through your official course portal.,legitimate,legitimate_assignment
+MSG-00559,Important notice: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Do not delay this action.,phishing,phishing_payment_alert
+MSG-00254,For your information: Your subscription payment receipt is available in your account.,legitimate,legitimate_subscription
+MSG-00649,Security alert: Congratulations! Verify your account details to receive your prize. Verify your details immediately.,phishing,phishing_reward_alert
+MSG-00100,Information: Our support team has updated your service request. Please review the details when convenient.,legitimate,legitimate_support
+MSG-00493,Information: Registration details for the campus event are available through the official college website. Thank you.,legitimate,legitimate_campus_event
+MSG-00539,Immediate action required: Your account will be disabled unless you verify your login details immediately. Do not delay this action.,phishing,phishing_account_alert
+MSG-00005,Information: Your account statement is available through the official website. Thank you.,legitimate,legitimate_account
+MSG-00618,Important notice: Delivery failed. Confirm your account information to reschedule your package. Verify your details immediately.,phishing,phishing_delivery_alert
+MSG-00028,Please note: Your monthly account summary is ready for review. Contact the official office if you need assistance.,legitimate,legitimate_account
+MSG-00319,Information: The department meeting is scheduled for Friday at 10 AM. Contact the official office if you need assistance.,legitimate,legitimate_department_meeting
+MSG-00162,"Reminder: You requested a password reset. If this was you, continue through the official website. Please review the details when convenient.",legitimate,legitimate_password
+MSG-00273,For your information: The updated class timetable is available on the official college notice board. Contact the official office if you need assistance.,legitimate,legitimate_college_timetable
+MSG-00439,For your information: Tomorrow's lecture will begin at 9 AM in the usual classroom.,legitimate,legitimate_classroom
+MSG-00613,Important notice: Your package is on hold. Submit your personal details to release the delivery. Do not delay this action.,phishing,phishing_delivery_alert
+MSG-00300,Please note: The department meeting agenda is available from your department office. Please review the details when convenient.,legitimate,legitimate_department_meeting
+MSG-00726,Security alert: Verify your credentials to access this urgent document. Act now to avoid suspension.,phishing,phishing_document_alert
+MSG-00291,Information: The department meeting agenda is available from your department office. Contact the official office if you need assistance.,legitimate,legitimate_department_meeting
+MSG-00651,Warning: You have won a special reward. Submit your personal information to claim it. Failure to respond may restrict access.,phishing,phishing_reward_alert
+MSG-00449,Notice: The monthly attendance report is available from your department office. Please review the details when convenient.,legitimate,legitimate_attendance
+MSG-00507,"Hello, The college cultural event will take place next Friday. Refer to the official college notice. Thank you.",legitimate,legitimate_campus_event
+MSG-00663,You have won a special reward. Submit your personal information to claim it. Failure to respond may restrict access.,phishing,phishing_reward_alert
+MSG-00071,A new sign-in was recorded. Review your security settings through the official website if needed. Please use the official website or portal.,legitimate,legitimate_security
+MSG-00470,Update: Your attendance summary is available through the college portal. Please use the official website or portal.,legitimate,legitimate_attendance
+MSG-00297,Please note: The department meeting is scheduled for Friday at 10 AM. Thank you.,legitimate,legitimate_department_meeting
+MSG-00606,Immediate action required: Confirm your password immediately to avoid account suspension. Do not delay this action.,phishing,phishing_password_alert
+MSG-00717,Immediate action required: A confidential document is waiting. Enter your account password to view it. Verify your details immediately.,phishing,phishing_document_alert
+MSG-00480,Notice: Your attendance summary is available through the college portal. Please review the details when convenient.,legitimate,legitimate_attendance
+MSG-00680,Important notice: Suspicious activity detected. Verify your credentials to prevent account closure. Act now to avoid suspension.,phishing,phishing_security_alert
+MSG-00362,Reminder: The library will remain closed on Sunday. Normal opening hours resume on Monday. Thank you.,legitimate,legitimate_library
+MSG-00735,A confidential document is waiting. Enter your account password to view it. Do not delay this action.,phishing,phishing_document_alert
+MSG-00123,"Hello, Our support team has updated your service request. Please use the official website or portal.",legitimate,legitimate_support
+MSG-00709,Verify your credentials to access this urgent document. Do not delay this action.,phishing,phishing_document_alert
+MSG-00382,Please note: Your requested library book is available for collection during normal library hours. Contact the official office if you need assistance.,legitimate,legitimate_library
+MSG-00069,Reminder: A new sign-in was recorded. Review your security settings through the official website if needed. Contact the official office if you need assistance.,legitimate,legitimate_security
+MSG-00454,The monthly attendance report is available from your department office. Please review the details when convenient.,legitimate,legitimate_attendance
+MSG-00762,Account notice: Your refund is pending. Submit your banking credentials to receive the payment.,phishing,phishing_refund_alert
+MSG-00089,Update: Your security settings were updated. Contact official support if you did not make this change. Please review the details when convenient.,legitimate,legitimate_security
+MSG-00745,Immediate action required: Your refund is pending. Submit your banking credentials to receive the payment. Verify your details immediately.,phishing,phishing_refund_alert
+MSG-00181,"Hello, Your password reset request has been received. Visit the official website directly if you need to review it. Contact the official office if you need assistance.",legitimate,legitimate_password
+MSG-00381,Please note: The library will remain closed on Sunday. Normal opening hours resume on Monday. Please review the details when convenient.,legitimate,legitimate_library
+MSG-00562,Important notice: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Failure to respond may restrict access.,phishing,phishing_payment_alert
+MSG-00376,Reminder: The library will remain closed on Sunday. Normal opening hours resume on Monday. Please use the official website or portal.,legitimate,legitimate_library
+MSG-00199,Notice: The meeting agenda is available in the shared workspace. Contact the official office if you need assistance.,legitimate,legitimate_meeting
+MSG-00485,Please note: The college cultural event will take place next Friday. Refer to the official college notice. Please use the official website or portal.,legitimate,legitimate_campus_event
+MSG-00271,For your information: Your weekly class timetable is available from your college office. Contact the official office if you need assistance.,legitimate,legitimate_college_timetable
+MSG-00251,Information: Your subscription renewal date is approaching. Review your plan through the official account portal. Thank you.,legitimate,legitimate_subscription
+MSG-00135,Reminder: Your package is scheduled for delivery. Check the official tracking service for details. Please use the official website or portal.,legitimate,legitimate_delivery
+MSG-00344,For your information: The assignment instructions are available through your official course portal.,legitimate,legitimate_assignment
+MSG-00235,Notice: Your subscription payment receipt is available in your account. Please use the official website or portal.,legitimate,legitimate_subscription
+MSG-00596,Your password has expired. Verify your credentials immediately to restore access. Verify your details immediately.,phishing,phishing_password_alert
+MSG-00473,Reminder: The monthly attendance report is available from your department office. Contact the official office if you need assistance.,legitimate,legitimate_attendance
+MSG-00188,Notice: Your password reset request has been received. Visit the official website directly if you need to review it. Please use the official website or portal.,legitimate,legitimate_password
+MSG-00438,"Hello, Today's class has been moved to Room 204. Confirm the update with your department. Please review the details when convenient.",legitimate,legitimate_classroom
+MSG-00413,Please note: The examination timetable has been published. Check the official college notice board. Please use the official website or portal.,legitimate,legitimate_examination
+MSG-00053,Notice: Your recent payment has been recorded. The receipt is available online. Thank you.,legitimate,legitimate_billing
+MSG-00296,For your information: The department meeting is scheduled for Friday at 10 AM.,legitimate,legitimate_department_meeting
+MSG-00647,Warning: Congratulations! Verify your account details to receive your prize. Verify your details immediately.,phishing,phishing_reward_alert
+MSG-00538,Urgent: Your account is restricted. Verify your credentials immediately. Verify your details immediately.,phishing,phishing_account_alert
+MSG-00479,For your information: Your attendance summary is available through the college portal. Please review the details when convenient.,legitimate,legitimate_attendance
+MSG-00514,Your account is restricted. Verify your credentials immediately. Verify your details immediately.,phishing,phishing_account_alert
+MSG-00003,Notice: Your account statement is available through the official website. Please use the official website or portal.,legitimate,legitimate_account
+MSG-00200,For your information: The meeting agenda is available in the shared workspace. Thank you.,legitimate,legitimate_meeting
+MSG-00220,Reminder: The meeting agenda is available in the shared workspace. Please review the details when convenient.,legitimate,legitimate_meeting
+MSG-00463,The monthly attendance report is available from your department office. Please review the details when convenient.,legitimate,legitimate_attendance
+MSG-00231,For your information: Your subscription payment receipt is available in your account. Contact the official office if you need assistance.,legitimate,legitimate_subscription
+MSG-00102,Reminder: Our support team has updated your service request.,legitimate,legitimate_support
+MSG-00315,Notice: The department meeting is scheduled for Friday at 10 AM. Contact the official office if you need assistance.,legitimate,legitimate_department_meeting
+MSG-00015,"Hello, Your monthly account summary is ready for review. Please use the official website or portal.",legitimate,legitimate_account
+MSG-00509,"Hello, The college cultural event will take place next Friday. Refer to the official college notice. Please use the official website or portal.",legitimate,legitimate_campus_event
+MSG-00222,Notice: The meeting agenda is available in the shared workspace. Please use the official website or portal.,legitimate,legitimate_meeting
+MSG-00763,Account notice: Your refund is pending. Submit your banking credentials to receive the payment. Do not delay this action.,phishing,phishing_refund_alert
+MSG-00095,Reminder: Your security settings were updated. Contact official support if you did not make this change. Thank you.,legitimate,legitimate_security
+MSG-00617,Urgent: Your package is on hold. Submit your personal details to release the delivery.,phishing,phishing_delivery_alert
+MSG-00208,Information: The meeting agenda is available in the shared workspace. Please review the details when convenient.,legitimate,legitimate_meeting
+MSG-00119,For your information: Your support request has been received. Check its status through the official support portal. Please review the details when convenient.,legitimate,legitimate_support
+MSG-00455,"Hello, Your attendance summary is available through the college portal.",legitimate,legitimate_attendance
+MSG-00219,"Hello, The meeting agenda is available in the shared workspace. Contact the official office if you need assistance.",legitimate,legitimate_meeting
+MSG-00287,For your information: The updated class timetable is available on the official college notice board. Thank you.,legitimate,legitimate_college_timetable
+MSG-00393,Information: Your examination hall allocation is available through the official college portal.,legitimate,legitimate_examination
+MSG-00082,A new sign-in was recorded. Review your security settings through the official website if needed. Please use the official website or portal.,legitimate,legitimate_security
+MSG-00553,Submit your account details immediately to prevent payment service interruption. Verify your details immediately.,phishing,phishing_payment_alert
+MSG-00621,Security alert: Delivery failed. Confirm your account information to reschedule your package.,phishing,phishing_delivery_alert
+MSG-00265,"Hello, The updated class timetable is available on the official college notice board.",legitimate,legitimate_college_timetable
+MSG-00474,Information: Your attendance summary is available through the college portal. Please review the details when convenient.,legitimate,legitimate_attendance
+MSG-00574,Important notice: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Act now to avoid suspension.,phishing,phishing_payment_alert
+MSG-00451,For your information: Your attendance summary is available through the college portal. Contact the official office if you need assistance.,legitimate,legitimate_attendance
+MSG-00396,Reminder: The examination timetable has been published. Check the official college notice board.,legitimate,legitimate_examination
+MSG-00358,Notice: The library will remain closed on Sunday. Normal opening hours resume on Monday. Please use the official website or portal.,legitimate,legitimate_library
+MSG-00012,"Hello, Your account statement is available through the official website. Please review the details when convenient.",legitimate,legitimate_account
+MSG-00466,Update: Your attendance summary is available through the college portal. Thank you.,legitimate,legitimate_attendance
+MSG-00400,Notice: Your examination hall allocation is available through the official college portal. Thank you.,legitimate,legitimate_examination
+MSG-00492,Notice: The college cultural event will take place next Friday. Refer to the official college notice.,legitimate,legitimate_campus_event
+MSG-00707,Urgent: A confidential document is waiting. Enter your account password to view it. Verify your details immediately.,phishing,phishing_document_alert
+MSG-00482,Update: Registration details for the campus event are available through the official college website. Contact the official office if you need assistance.,legitimate,legitimate_campus_event
+MSG-00650,Important notice: You have won a special reward. Submit your personal information to claim it. Verify your details immediately.,phishing,phishing_reward_alert
+MSG-00452,"Hello, Your attendance summary is available through the college portal. Please review the details when convenient.",legitimate,legitimate_attendance
+MSG-00704,Your account security is at risk. Confirm your login details immediately. Do not delay this action.,phishing,phishing_security_alert
+MSG-00244,Information: Your subscription renewal date is approaching. Review your plan through the official account portal. Thank you.,legitimate,legitimate_subscription
+MSG-00414,The examination timetable has been published. Check the official college notice board. Thank you.,legitimate,legitimate_examination
+MSG-00524,Account notice: Your account will be disabled unless you verify your login details immediately.,phishing,phishing_account_alert
+MSG-00267,Reminder: The updated class timetable is available on the official college notice board. Contact the official office if you need assistance.,legitimate,legitimate_college_timetable
+MSG-00551,Your payment failed. Confirm your banking credentials immediately to avoid suspension. Act now to avoid suspension.,phishing,phishing_payment_alert
+MSG-00585,Urgent: Confirm your password immediately to avoid account suspension. Failure to respond may restrict access.,phishing,phishing_password_alert
+MSG-00638,Your package is on hold. Submit your personal details to release the delivery. Failure to respond may restrict access.,phishing,phishing_delivery_alert
+MSG-00160,Information: Your package is scheduled for delivery. Check the official tracking service for details. Please review the details when convenient.,legitimate,legitimate_delivery
+MSG-00179,"Reminder: You requested a password reset. If this was you, continue through the official website. Contact the official office if you need assistance.",legitimate,legitimate_password
+MSG-00073,Please note: A new sign-in was recorded. Review your security settings through the official website if needed. Contact the official office if you need assistance.,legitimate,legitimate_security
+MSG-00060,Update: Your monthly bill is available in your account. Please use the official website or portal.,legitimate,legitimate_billing
+MSG-00410,"Hello, The examination timetable has been published. Check the official college notice board. Contact the official office if you need assistance.",legitimate,legitimate_examination
+MSG-00615,Account notice: Delivery failed. Confirm your account information to reschedule your package. Do not delay this action.,phishing,phishing_delivery_alert
+MSG-00152,Update: Your delivery status has been updated on the official delivery service website. Please use the official website or portal.,legitimate,legitimate_delivery
+MSG-00054,Notice: Your monthly bill is available in your account. Please review the details when convenient.,legitimate,legitimate_billing
+MSG-00248,Reminder: Your subscription renewal date is approaching. Review your plan through the official account portal. Please review the details when convenient.,legitimate,legitimate_subscription
+MSG-00544,Important notice: Your account will be disabled unless you verify your login details immediately. Verify your details immediately.,phishing,phishing_account_alert
+MSG-00177,"Notice: You requested a password reset. If this was you, continue through the official website. Contact the official office if you need assistance.",legitimate,legitimate_password
+MSG-00593,Important notice: Your password has expired. Verify your credentials immediately to restore access. Act now to avoid suspension.,phishing,phishing_password_alert
+MSG-00257,Your weekly class timetable is available from your college office. Contact the official office if you need assistance.,legitimate,legitimate_college_timetable
+MSG-00354,Information: Your requested library book is available for collection during normal library hours.,legitimate,legitimate_library
+MSG-00302,Information: The department meeting is scheduled for Friday at 10 AM. Please review the details when convenient.,legitimate,legitimate_department_meeting
+MSG-00348,Please note: Your assignment submission deadline is Monday. Check your course portal for the requirements.,legitimate,legitimate_assignment
+MSG-00738,Immediate action required: Confirm your payment information immediately to process your refund. Act now to avoid suspension.,phishing,phishing_refund_alert
+MSG-00516,Important notice: Your account will be disabled unless you verify your login details immediately.,phishing,phishing_account_alert
+MSG-00711,Urgent: Verify your credentials to access this urgent document. Do not delay this action.,phishing,phishing_document_alert
+MSG-00229,Reminder: Your subscription renewal date is approaching. Review your plan through the official account portal. Thank you.,legitimate,legitimate_subscription
+MSG-00643,Security alert: You have won a special reward. Submit your personal information to claim it. Act now to avoid suspension.,phishing,phishing_reward_alert
+MSG-00476,For your information: The monthly attendance report is available from your department office. Please review the details when convenient.,legitimate,legitimate_attendance
+MSG-00353,Your requested library book is available for collection during normal library hours. Contact the official office if you need assistance.,legitimate,legitimate_library
+MSG-00298,For your information: The department meeting is scheduled for Friday at 10 AM. Please review the details when convenient.,legitimate,legitimate_department_meeting
+MSG-00286,The updated class timetable is available on the official college notice board. Please review the details when convenient.,legitimate,legitimate_college_timetable
+MSG-00266,"Hello, Your weekly class timetable is available from your college office. Contact the official office if you need assistance.",legitimate,legitimate_college_timetable
+MSG-00655,Important notice: You have won a special reward. Submit your personal information to claim it.,phishing,phishing_reward_alert
+MSG-00262,Reminder: The updated class timetable is available on the official college notice board. Thank you.,legitimate,legitimate_college_timetable
+MSG-00114,Update: Your support request has been received. Check its status through the official support portal. Contact the official office if you need assistance.,legitimate,legitimate_support
+MSG-00133,Notice: Your package is scheduled for delivery. Check the official tracking service for details. Please review the details when convenient.,legitimate,legitimate_delivery
+MSG-00051,Reminder: Your monthly bill is available in your account. Contact the official office if you need assistance.,legitimate,legitimate_billing
+MSG-00727,Account notice: A confidential document is waiting. Enter your account password to view it.,phishing,phishing_document_alert
+MSG-00597,Account notice: Confirm your password immediately to avoid account suspension. Do not delay this action.,phishing,phishing_password_alert
+MSG-00499,Update: The college cultural event will take place next Friday. Refer to the official college notice. Please review the details when convenient.,legitimate,legitimate_campus_event
+MSG-00170,"Hello, You requested a password reset. If this was you, continue through the official website. Please review the details when convenient.",legitimate,legitimate_password
+MSG-00386,Notice: The examination timetable has been published. Check the official college notice board.,legitimate,legitimate_examination
+MSG-00205,Information: The meeting agenda is available in the shared workspace. Contact the official office if you need assistance.,legitimate,legitimate_meeting
+MSG-00402,Please note: The examination timetable has been published. Check the official college notice board. Contact the official office if you need assistance.,legitimate,legitimate_examination
+MSG-00347,Please note: The assignment instructions are available through your official course portal. Please use the official website or portal.,legitimate,legitimate_assignment
+MSG-00331,Update: The assignment instructions are available through your official course portal. Please review the details when convenient.,legitimate,legitimate_assignment
+MSG-00465,For your information: The monthly attendance report is available from your department office. Thank you.,legitimate,legitimate_attendance
+MSG-00023,Please note: Your monthly account summary is ready for review. Please review the details when convenient.,legitimate,legitimate_account
+MSG-00314,For your information: The department meeting is scheduled for Friday at 10 AM. Please review the details when convenient.,legitimate,legitimate_department_meeting
+MSG-00332,Reminder: The assignment instructions are available through your official course portal. Please review the details when convenient.,legitimate,legitimate_assignment
+MSG-00086,Notice: A new sign-in was recorded. Review your security settings through the official website if needed. Contact the official office if you need assistance.,legitimate,legitimate_security
+MSG-00182,Please note: Your password reset request has been received. Visit the official website directly if you need to review it. Please review the details when convenient.,legitimate,legitimate_password
+MSG-00341,Notice: Your assignment submission deadline is Monday. Check your course portal for the requirements. Contact the official office if you need assistance.,legitimate,legitimate_assignment
+MSG-00337,For your information: Your assignment submission deadline is Monday. Check your course portal for the requirements. Please review the details when convenient.,legitimate,legitimate_assignment
+MSG-00128,Notice: Our support team has updated your service request. Contact the official office if you need assistance.,legitimate,legitimate_support
+MSG-00459,Update: The monthly attendance report is available from your department office. Please use the official website or portal.,legitimate,legitimate_attendance
+MSG-00056,Your monthly bill is available in your account.,legitimate,legitimate_billing
+MSG-00630,Important notice: Delivery failed. Confirm your account information to reschedule your package.,phishing,phishing_delivery_alert
+MSG-00327,"Hello, Your assignment submission deadline is Monday. Check your course portal for the requirements. Thank you.",legitimate,legitimate_assignment
+MSG-00494,Notice: Registration details for the campus event are available through the official college website. Please review the details when convenient.,legitimate,legitimate_campus_event
+MSG-00531,Immediate action required: Your account will be disabled unless you verify your login details immediately.,phishing,phishing_account_alert
+MSG-00360,Update: Your requested library book is available for collection during normal library hours. Please use the official website or portal.,legitimate,legitimate_library
+MSG-00185,"You requested a password reset. If this was you, continue through the official website.",legitimate,legitimate_password
+MSG-00430,Information: Today's class has been moved to Room 204. Confirm the update with your department. Please review the details when convenient.,legitimate,legitimate_classroom
+MSG-00019,For your information: Your monthly account summary is ready for review. Please review the details when convenient.,legitimate,legitimate_account
+MSG-00279,Notice: Your weekly class timetable is available from your college office. Contact the official office if you need assistance.,legitimate,legitimate_college_timetable
+MSG-00215,Information: The meeting agenda is available in the shared workspace. Contact the official office if you need assistance.,legitimate,legitimate_meeting
+MSG-00595,Urgent: Confirm your password immediately to avoid account suspension. Act now to avoid suspension.,phishing,phishing_password_alert
+MSG-00260,Reminder: Your weekly class timetable is available from your college office. Please use the official website or portal.,legitimate,legitimate_college_timetable
+MSG-00710,Account notice: Verify your credentials to access this urgent document.,phishing,phishing_document_alert
+MSG-00206,"Hello, The meeting agenda is available in the shared workspace.",legitimate,legitimate_meeting
+MSG-00705,A confidential document is waiting. Enter your account password to view it. Do not delay this action.,phishing,phishing_document_alert
+MSG-00489,Update: Registration details for the campus event are available through the official college website. Thank you.,legitimate,legitimate_campus_event
+MSG-00523,Account notice: Your account will be disabled unless you verify your login details immediately. Do not delay this action.,phishing,phishing_account_alert
+MSG-00230,Notice: Your subscription payment receipt is available in your account.,legitimate,legitimate_subscription
+MSG-00038,"Hello, Your recent payment has been recorded. The receipt is available online.",legitimate,legitimate_billing
+MSG-00194,Information: The team meeting is scheduled for Friday at 10 AM.,legitimate,legitimate_meeting
+MSG-00405,The examination timetable has been published. Check the official college notice board. Thank you.,legitimate,legitimate_examination
+MSG-00628,Warning: Delivery failed. Confirm your account information to reschedule your package. Do not delay this action.,phishing,phishing_delivery_alert
+MSG-00367,Notice: Your requested library book is available for collection during normal library hours.,legitimate,legitimate_library
+MSG-00521,Important notice: Your account will be disabled unless you verify your login details immediately. Act now to avoid suspension.,phishing,phishing_account_alert
+MSG-00733,Account notice: A confidential document is waiting. Enter your account password to view it. Failure to respond may restrict access.,phishing,phishing_document_alert
+MSG-00130,Your package is scheduled for delivery. Check the official tracking service for details. Please use the official website or portal.,legitimate,legitimate_delivery
+MSG-00124,"Hello, Our support team has updated your service request.",legitimate,legitimate_support
+MSG-00156,For your information: Your package is scheduled for delivery. Check the official tracking service for details. Please use the official website or portal.,legitimate,legitimate_delivery
+MSG-00755,Confirm your payment information immediately to process your refund. Do not delay this action.,phishing,phishing_refund_alert
+MSG-00072,Notice: A new sign-in was recorded. Review your security settings through the official website if needed. Thank you.,legitimate,legitimate_security
+MSG-00256,For your information: Your subscription payment receipt is available in your account. Contact the official office if you need assistance.,legitimate,legitimate_subscription
+MSG-00345,Information: Your assignment submission deadline is Monday. Check your course portal for the requirements. Please use the official website or portal.,legitimate,legitimate_assignment
+MSG-00210,The meeting agenda is available in the shared workspace. Please use the official website or portal.,legitimate,legitimate_meeting
+MSG-00444,Reminder: Today's class has been moved to Room 204. Confirm the update with your department.,legitimate,legitimate_classroom
+MSG-00612,Security alert: Your package is on hold. Submit your personal details to release the delivery. Do not delay this action.,phishing,phishing_delivery_alert
+MSG-00435,Update: Tomorrow's lecture will begin at 9 AM in the usual classroom. Please use the official website or portal.,legitimate,legitimate_classroom
+MSG-00420,Notice: Today's class has been moved to Room 204. Confirm the update with your department. Contact the official office if you need assistance.,legitimate,legitimate_classroom
+MSG-00036,For your information: Your recent payment has been recorded. The receipt is available online. Please use the official website or portal.,legitimate,legitimate_billing
+MSG-00598,Urgent: Confirm your password immediately to avoid account suspension. Act now to avoid suspension.,phishing,phishing_password_alert
+MSG-00426,"Hello, Today's class has been moved to Room 204. Confirm the update with your department.",legitimate,legitimate_classroom
+MSG-00752,Urgent: Confirm your payment information immediately to process your refund. Do not delay this action.,phishing,phishing_refund_alert
+MSG-00409,Information: Your examination hall allocation is available through the official college portal. Please use the official website or portal.,legitimate,legitimate_examination
+MSG-00225,Notice: Your subscription payment receipt is available in your account. Thank you.,legitimate,legitimate_subscription
+MSG-00108,Your support request has been received. Check its status through the official support portal. Please review the details when convenient.,legitimate,legitimate_support
+MSG-00548,Account notice: Submit your account details immediately to prevent payment service interruption. Verify your details immediately.,phishing,phishing_payment_alert
+MSG-00699,Urgent: Your account security is at risk. Confirm your login details immediately. Failure to respond may restrict access.,phishing,phishing_security_alert
+MSG-00373,Notice: Your requested library book is available for collection during normal library hours. Contact the official office if you need assistance.,legitimate,legitimate_library
+MSG-00014,Please note: Your account statement is available through the official website.,legitimate,legitimate_account
+MSG-00675,Suspicious activity detected. Verify your credentials to prevent account closure. Verify your details immediately.,phishing,phishing_security_alert
+MSG-00614,Delivery failed. Confirm your account information to reschedule your package. Failure to respond may restrict access.,phishing,phishing_delivery_alert
+MSG-00350,"Hello, Your assignment submission deadline is Monday. Check your course portal for the requirements. Thank you.",legitimate,legitimate_assignment
+MSG-00093,Reminder: A new sign-in was recorded. Review your security settings through the official website if needed. Thank you.,legitimate,legitimate_security
+MSG-00588,Immediate action required: Confirm your password immediately to avoid account suspension. Failure to respond may restrict access.,phishing,phishing_password_alert
+MSG-00304,Notice: The department meeting is scheduled for Friday at 10 AM. Contact the official office if you need assistance.,legitimate,legitimate_department_meeting
+MSG-00626,Urgent: Delivery failed. Confirm your account information to reschedule your package. Failure to respond may restrict access.,phishing,phishing_delivery_alert
+MSG-00289,Please note: The department meeting agenda is available from your department office. Contact the official office if you need assistance.,legitimate,legitimate_department_meeting
+MSG-00059,Reminder: Your monthly bill is available in your account. Contact the official office if you need assistance.,legitimate,legitimate_billing
+MSG-00187,"Information: You requested a password reset. If this was you, continue through the official website. Thank you.",legitimate,legitimate_password
+MSG-00202,For your information: The meeting agenda is available in the shared workspace. Contact the official office if you need assistance.,legitimate,legitimate_meeting
+MSG-00403,"Hello, Your examination hall allocation is available through the official college portal. Thank you.",legitimate,legitimate_examination
+MSG-00419,Information: Today's class has been moved to Room 204. Confirm the update with your department. Please use the official website or portal.,legitimate,legitimate_classroom
+MSG-00601,Security alert: Confirm your password immediately to avoid account suspension. Failure to respond may restrict access.,phishing,phishing_password_alert
+MSG-00193,Please note: The meeting agenda is available in the shared workspace. Thank you.,legitimate,legitimate_meeting
+MSG-00609,Urgent: Delivery failed. Confirm your account information to reschedule your package. Verify your details immediately.,phishing,phishing_delivery_alert
+MSG-00125,Reminder: Your support request has been received. Check its status through the official support portal. Thank you.,legitimate,legitimate_support
+MSG-00401,Notice: The examination timetable has been published. Check the official college notice board. Please use the official website or portal.,legitimate,legitimate_examination
+MSG-00295,Notice: The department meeting agenda is available from your department office. Contact the official office if you need assistance.,legitimate,legitimate_department_meeting
+MSG-00729,Security alert: Verify your credentials to access this urgent document. Failure to respond may restrict access.,phishing,phishing_document_alert
+MSG-00568,Account notice: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Act now to avoid suspension.,phishing,phishing_payment_alert
+MSG-00641,Security alert: Congratulations! Verify your account details to receive your prize. Do not delay this action.,phishing,phishing_reward_alert
+MSG-00377,Please note: Your requested library book is available for collection during normal library hours. Please use the official website or portal.,legitimate,legitimate_library
+MSG-00529,Immediate action required: Your account will be disabled unless you verify your login details immediately. Do not delay this action.,phishing,phishing_account_alert
+MSG-00164,"Information: You requested a password reset. If this was you, continue through the official website. Contact the official office if you need assistance.",legitimate,legitimate_password
+MSG-00204,Notice: The team meeting is scheduled for Friday at 10 AM. Please review the details when convenient.,legitimate,legitimate_meeting
+MSG-00091,For your information: A new sign-in was recorded. Review your security settings through the official website if needed. Please use the official website or portal.,legitimate,legitimate_security
+MSG-00161,Notice: Your password reset request has been received. Visit the official website directly if you need to review it. Please review the details when convenient.,legitimate,legitimate_password
+MSG-00246,For your information: Your subscription payment receipt is available in your account. Please use the official website or portal.,legitimate,legitimate_subscription
+MSG-00103,Please note: Your support request has been received. Check its status through the official support portal. Please review the details when convenient.,legitimate,legitimate_support
+MSG-00356,The library will remain closed on Sunday. Normal opening hours resume on Monday. Please review the details when convenient.,legitimate,legitimate_library
+MSG-00756,Immediate action required: Confirm your payment information immediately to process your refund. Do not delay this action.,phishing,phishing_refund_alert
+MSG-00532,Security alert: Your account will be disabled unless you verify your login details immediately. Failure to respond may restrict access.,phishing,phishing_account_alert
+MSG-00165,"Information: You requested a password reset. If this was you, continue through the official website.",legitimate,legitimate_password
+MSG-00154,Notice: Your delivery status has been updated on the official delivery service website. Contact the official office if you need assistance.,legitimate,legitimate_delivery
+MSG-00698,Urgent: Suspicious activity detected. Verify your credentials to prevent account closure. Act now to avoid suspension.,phishing,phishing_security_alert
+MSG-00305,Reminder: The department meeting is scheduled for Friday at 10 AM.,legitimate,legitimate_department_meeting
+MSG-00334,Information: Your assignment submission deadline is Monday. Check your course portal for the requirements. Contact the official office if you need assistance.,legitimate,legitimate_assignment
+MSG-00670,Account notice: You have won a special reward. Submit your personal information to claim it.,phishing,phishing_reward_alert
+MSG-00679,Important notice: Your account security is at risk. Confirm your login details immediately. Act now to avoid suspension.,phishing,phishing_security_alert
+MSG-00552,Immediate action required: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Act now to avoid suspension.,phishing,phishing_payment_alert
+MSG-00221,Notice: The team meeting is scheduled for Friday at 10 AM. Thank you.,legitimate,legitimate_meeting
+MSG-00527,Your account will be disabled unless you verify your login details immediately.,phishing,phishing_account_alert
+MSG-00226,Information: Your subscription payment receipt is available in your account. Please review the details when convenient.,legitimate,legitimate_subscription
+MSG-00169,"Please note: You requested a password reset. If this was you, continue through the official website. Contact the official office if you need assistance.",legitimate,legitimate_password
+MSG-00555,Important notice: Submit your account details immediately to prevent payment service interruption. Act now to avoid suspension.,phishing,phishing_payment_alert
+MSG-00412,Reminder: Your examination hall allocation is available through the official college portal.,legitimate,legitimate_examination
+MSG-00195,Notice: The meeting agenda is available in the shared workspace. Please use the official website or portal.,legitimate,legitimate_meeting
+MSG-00318,Please note: The department meeting is scheduled for Friday at 10 AM. Contact the official office if you need assistance.,legitimate,legitimate_department_meeting
+MSG-00431,Notice: Tomorrow's lecture will begin at 9 AM in the usual classroom. Please use the official website or portal.,legitimate,legitimate_classroom
+MSG-00171,Please note: Your password reset request has been received. Visit the official website directly if you need to review it. Please use the official website or portal.,legitimate,legitimate_password
+MSG-00203,Reminder: The meeting agenda is available in the shared workspace. Please review the details when convenient.,legitimate,legitimate_meeting
+MSG-00486,Information: Registration details for the campus event are available through the official college website. Contact the official office if you need assistance.,legitimate,legitimate_campus_event
+MSG-00004,Your monthly account summary is ready for review.,legitimate,legitimate_account
+MSG-00312,Information: The department meeting is scheduled for Friday at 10 AM. Contact the official office if you need assistance.,legitimate,legitimate_department_meeting
+MSG-00139,Reminder: Your delivery status has been updated on the official delivery service website. Please review the details when convenient.,legitimate,legitimate_delivery
+MSG-00642,Account notice: Congratulations! Verify your account details to receive your prize.,phishing,phishing_reward_alert
+MSG-00469,Please note: Your attendance summary is available through the college portal. Thank you.,legitimate,legitimate_attendance
+MSG-00734,Urgent: A confidential document is waiting. Enter your account password to view it. Act now to avoid suspension.,phishing,phishing_document_alert
+MSG-00508,"Hello, The college cultural event will take place next Friday. Refer to the official college notice. Thank you.",legitimate,legitimate_campus_event
+MSG-00576,Security alert: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Act now to avoid suspension.,phishing,phishing_payment_alert
+MSG-00258,Reminder: The updated class timetable is available on the official college notice board.,legitimate,legitimate_college_timetable
+MSG-00583,Warning: Confirm your password immediately to avoid account suspension. Do not delay this action.,phishing,phishing_password_alert
+MSG-00611,Delivery failed. Confirm your account information to reschedule your package. Failure to respond may restrict access.,phishing,phishing_delivery_alert
+MSG-00496,Information: The college cultural event will take place next Friday. Refer to the official college notice. Contact the official office if you need assistance.,legitimate,legitimate_campus_event
+MSG-00610,Account notice: Delivery failed. Confirm your account information to reschedule your package. Failure to respond may restrict access.,phishing,phishing_delivery_alert
+MSG-00432,Information: Tomorrow's lecture will begin at 9 AM in the usual classroom. Please review the details when convenient.,legitimate,legitimate_classroom
+MSG-00283,Update: The updated class timetable is available on the official college notice board. Contact the official office if you need assistance.,legitimate,legitimate_college_timetable
+MSG-00446,For your information: Tomorrow's lecture will begin at 9 AM in the usual classroom. Please use the official website or portal.,legitimate,legitimate_classroom
+MSG-00172,"For your information: You requested a password reset. If this was you, continue through the official website. Thank you.",legitimate,legitimate_password
+MSG-00065,Notice: A new sign-in was recorded. Review your security settings through the official website if needed.,legitimate,legitimate_security
+MSG-00743,Urgent: Confirm your payment information immediately to process your refund. Verify your details immediately.,phishing,phishing_refund_alert
+MSG-00505,Please note: The college cultural event will take place next Friday. Refer to the official college notice. Please review the details when convenient.,legitimate,legitimate_campus_event
+MSG-00573,Security alert: Submit your account details immediately to prevent payment service interruption. Verify your details immediately.,phishing,phishing_payment_alert
+MSG-00309,Update: The department meeting agenda is available from your department office. Thank you.,legitimate,legitimate_department_meeting
+MSG-00276,Notice: The updated class timetable is available on the official college notice board.,legitimate,legitimate_college_timetable
+MSG-00143,Update: Your package is scheduled for delivery. Check the official tracking service for details.,legitimate,legitimate_delivery
+MSG-00666,Security alert: You have won a special reward. Submit your personal information to claim it. Act now to avoid suspension.,phishing,phishing_reward_alert
+MSG-00571,Urgent: Submit your account details immediately to prevent payment service interruption. Act now to avoid suspension.,phishing,phishing_payment_alert
+MSG-00716,Security alert: A confidential document is waiting. Enter your account password to view it.,phishing,phishing_document_alert
+MSG-00534,Warning: Your account is restricted. Verify your credentials immediately. Failure to respond may restrict access.,phishing,phishing_account_alert
+MSG-00249,Notice: Your subscription payment receipt is available in your account. Thank you.,legitimate,legitimate_subscription
+MSG-00087,Reminder: Your security settings were updated. Contact official support if you did not make this change. Thank you.,legitimate,legitimate_security
+MSG-00398,"Hello, Your examination hall allocation is available through the official college portal.",legitimate,legitimate_examination
+MSG-00747,Warning: Your refund is pending. Submit your banking credentials to receive the payment. Failure to respond may restrict access.,phishing,phishing_refund_alert
+MSG-00299,Please note: The department meeting agenda is available from your department office.,legitimate,legitimate_department_meeting
+MSG-00678,Urgent: Your account security is at risk. Confirm your login details immediately. Do not delay this action.,phishing,phishing_security_alert
+MSG-00395,Information: Your examination hall allocation is available through the official college portal. Contact the official office if you need assistance.,legitimate,legitimate_examination
+MSG-00333,For your information: Your assignment submission deadline is Monday. Check your course portal for the requirements.,legitimate,legitimate_assignment
+MSG-00700,Immediate action required: Your account security is at risk. Confirm your login details immediately. Do not delay this action.,phishing,phishing_security_alert
+MSG-00659,Security alert: Congratulations! Verify your account details to receive your prize. Verify your details immediately.,phishing,phishing_reward_alert
+MSG-00092,Notice: A new sign-in was recorded. Review your security settings through the official website if needed. Please use the official website or portal.,legitimate,legitimate_security
+MSG-00027,"Hello, Your account statement is available through the official website. Thank you.",legitimate,legitimate_account
+MSG-00106,Please note: Our support team has updated your service request. Please use the official website or portal.,legitimate,legitimate_support
+MSG-00418,Update: Today's class has been moved to Room 204. Confirm the update with your department. Thank you.,legitimate,legitimate_classroom
+MSG-00525,Your account will be disabled unless you verify your login details immediately. Failure to respond may restrict access.,phishing,phishing_account_alert
+MSG-00460,Reminder: Your attendance summary is available through the college portal. Please use the official website or portal.,legitimate,legitimate_attendance
+MSG-00442,Reminder: Tomorrow's lecture will begin at 9 AM in the usual classroom. Contact the official office if you need assistance.,legitimate,legitimate_classroom
+MSG-00192,"You requested a password reset. If this was you, continue through the official website. Please review the details when convenient.",legitimate,legitimate_password
+MSG-00090,"Hello, Your security settings were updated. Contact official support if you did not make this change.",legitimate,legitimate_security
+MSG-00136,Information: Your delivery status has been updated on the official delivery service website. Contact the official office if you need assistance.,legitimate,legitimate_delivery
+MSG-00105,Reminder: Your support request has been received. Check its status through the official support portal. Thank you.,legitimate,legitimate_support
+MSG-00277,Update: Your weekly class timetable is available from your college office. Please review the details when convenient.,legitimate,legitimate_college_timetable
+MSG-00758,Urgent: Confirm your payment information immediately to process your refund. Verify your details immediately.,phishing,phishing_refund_alert
+MSG-00456,Reminder: The monthly attendance report is available from your department office. Please review the details when convenient.,legitimate,legitimate_attendance
+MSG-00760,Security alert: Your refund is pending. Submit your banking credentials to receive the payment. Act now to avoid suspension.,phishing,phishing_refund_alert
+MSG-00006,Information: Your account statement is available through the official website. Please use the official website or portal.,legitimate,legitimate_account
+MSG-00094,Notice: Your security settings were updated. Contact official support if you did not make this change. Thank you.,legitimate,legitimate_security
+MSG-00668,Warning: Congratulations! Verify your account details to receive your prize. Act now to avoid suspension.,phishing,phishing_reward_alert
+MSG-00370,The library will remain closed on Sunday. Normal opening hours resume on Monday. Please use the official website or portal.,legitimate,legitimate_library
+MSG-00325,Update: The assignment instructions are available through your official course portal.,legitimate,legitimate_assignment
+MSG-00605,Confirm your password immediately to avoid account suspension.,phishing,phishing_password_alert
+MSG-00572,Warning: Submit your account details immediately to prevent payment service interruption. Act now to avoid suspension.,phishing,phishing_payment_alert
+MSG-00652,Immediate action required: Congratulations! Verify your account details to receive your prize. Verify your details immediately.,phishing,phishing_reward_alert
+MSG-00158,For your information: Your package is scheduled for delivery. Check the official tracking service for details. Please review the details when convenient.,legitimate,legitimate_delivery
+MSG-00275,Reminder: Your weekly class timetable is available from your college office. Contact the official office if you need assistance.,legitimate,legitimate_college_timetable
+MSG-00637,Security alert: Your package is on hold. Submit your personal details to release the delivery.,phishing,phishing_delivery_alert
+MSG-00076,Please note: A new sign-in was recorded. Review your security settings through the official website if needed. Please review the details when convenient.,legitimate,legitimate_security
+MSG-00253,Update: Your subscription renewal date is approaching. Review your plan through the official account portal. Please review the details when convenient.,legitimate,legitimate_subscription
+MSG-00736,Immediate action required: A confidential document is waiting. Enter your account password to view it. Do not delay this action.,phishing,phishing_document_alert
+MSG-00088,Information: Your security settings were updated. Contact official support if you did not make this change. Please review the details when convenient.,legitimate,legitimate_security
+MSG-00765,Important notice: Confirm your payment information immediately to process your refund.,phishing,phishing_refund_alert
+MSG-00191,"Update: You requested a password reset. If this was you, continue through the official website. Please review the details when convenient.",legitimate,legitimate_password
+MSG-00443,Today's class has been moved to Room 204. Confirm the update with your department.,legitimate,legitimate_classroom
+MSG-00385,For your information: The examination timetable has been published. Check the official college notice board.,legitimate,legitimate_examination
+MSG-00753,Urgent: Confirm your payment information immediately to process your refund. Act now to avoid suspension.,phishing,phishing_refund_alert
+MSG-00365,Your requested library book is available for collection during normal library hours. Thank you.,legitimate,legitimate_library
+MSG-00234,Notice: Your subscription renewal date is approaching. Review your plan through the official account portal. Contact the official office if you need assistance.,legitimate,legitimate_subscription
+MSG-00720,Immediate action required: Verify your credentials to access this urgent document. Act now to avoid suspension.,phishing,phishing_document_alert
+MSG-00462,Please note: Your attendance summary is available through the college portal. Please use the official website or portal.,legitimate,legitimate_attendance
+MSG-00280,Update: Your weekly class timetable is available from your college office. Contact the official office if you need assistance.,legitimate,legitimate_college_timetable
+MSG-00031,Please note: Your monthly account summary is ready for review. Please review the details when convenient.,legitimate,legitimate_account
+MSG-00335,Notice: The assignment instructions are available through your official course portal. Contact the official office if you need assistance.,legitimate,legitimate_assignment
+MSG-00657,Immediate action required: Congratulations! Verify your account details to receive your prize. Verify your details immediately.,phishing,phishing_reward_alert
+MSG-00349,Please note: The assignment instructions are available through your official course portal. Please review the details when convenient.,legitimate,legitimate_assignment
+MSG-00078,Update: Your security settings were updated. Contact official support if you did not make this change. Thank you.,legitimate,legitimate_security
+MSG-00238,Please note: Your subscription renewal date is approaching. Review your plan through the official account portal. Please use the official website or portal.,legitimate,legitimate_subscription
+MSG-00448,Update: Today's class has been moved to Room 204. Confirm the update with your department.,legitimate,legitimate_classroom
+MSG-00754,Account notice: Confirm your payment information immediately to process your refund. Act now to avoid suspension.,phishing,phishing_refund_alert
+MSG-00055,Information: Your monthly bill is available in your account. Please use the official website or portal.,legitimate,legitimate_billing
+MSG-00355,Notice: Your requested library book is available for collection during normal library hours. Thank you.,legitimate,legitimate_library
+MSG-00513,Urgent: Your account will be disabled unless you verify your login details immediately.,phishing,phishing_account_alert
+MSG-00656,Warning: Congratulations! Verify your account details to receive your prize.,phishing,phishing_reward_alert
+MSG-00715,Important notice: Verify your credentials to access this urgent document.,phishing,phishing_document_alert
+MSG-00394,"Hello, Your examination hall allocation is available through the official college portal.",legitimate,legitimate_examination
+MSG-00634,Warning: Your package is on hold. Submit your personal details to release the delivery.,phishing,phishing_delivery_alert
+MSG-00554,Warning: Submit your account details immediately to prevent payment service interruption.,phishing,phishing_payment_alert
+MSG-00399,Update: The examination timetable has been published. Check the official college notice board. Please use the official website or portal.,legitimate,legitimate_examination
+MSG-00627,Security alert: Delivery failed. Confirm your account information to reschedule your package. Verify your details immediately.,phishing,phishing_delivery_alert
+MSG-00664,Warning: Congratulations! Verify your account details to receive your prize. Failure to respond may restrict access.,phishing,phishing_reward_alert
+MSG-00620,Security alert: Your package is on hold. Submit your personal details to release the delivery. Do not delay this action.,phishing,phishing_delivery_alert
+MSG-00167,Please note: Your password reset request has been received. Visit the official website directly if you need to review it.,legitimate,legitimate_password
+MSG-00307,"Hello, The department meeting agenda is available from your department office. Please review the details when convenient.",legitimate,legitimate_department_meeting
+MSG-00079,Information: Your security settings were updated. Contact official support if you did not make this change.,legitimate,legitimate_security
+MSG-00408,For your information: Your examination hall allocation is available through the official college portal. Contact the official office if you need assistance.,legitimate,legitimate_examination
+MSG-00148,For your information: Your delivery status has been updated on the official delivery service website. Contact the official office if you need assistance.,legitimate,legitimate_delivery
+MSG-00602,Important notice: Confirm your password immediately to avoid account suspension. Failure to respond may restrict access.,phishing,phishing_password_alert
+MSG-00213,For your information: The team meeting is scheduled for Friday at 10 AM. Contact the official office if you need assistance.,legitimate,legitimate_meeting
+MSG-00688,Urgent: Your account security is at risk. Confirm your login details immediately.,phishing,phishing_security_alert
+MSG-00323,Reminder: The assignment instructions are available through your official course portal. Thank you.,legitimate,legitimate_assignment
+MSG-00669,Important notice: Congratulations! Verify your account details to receive your prize. Verify your details immediately.,phishing,phishing_reward_alert
+MSG-00034,Update: Your monthly bill is available in your account. Thank you.,legitimate,legitimate_billing
+MSG-00578,Account notice: Confirm your password immediately to avoid account suspension. Do not delay this action.,phishing,phishing_password_alert
+MSG-00557,Your payment failed. Confirm your banking credentials immediately to avoid suspension. Act now to avoid suspension.,phishing,phishing_payment_alert
+MSG-00288,For your information: The updated class timetable is available on the official college notice board. Please review the details when convenient.,legitimate,legitimate_college_timetable
+MSG-00706,Security alert: A confidential document is waiting. Enter your account password to view it. Do not delay this action.,phishing,phishing_document_alert
+MSG-00048,Update: Your monthly bill is available in your account. Thank you.,legitimate,legitimate_billing
+MSG-00278,Please note: Your weekly class timetable is available from your college office.,legitimate,legitimate_college_timetable
+MSG-00487,"Hello, The college cultural event will take place next Friday. Refer to the official college notice. Thank you.",legitimate,legitimate_campus_event
+MSG-00581,Warning: Confirm your password immediately to avoid account suspension. Act now to avoid suspension.,phishing,phishing_password_alert
+MSG-00217,For your information: The meeting agenda is available in the shared workspace. Please use the official website or portal.,legitimate,legitimate_meeting
+MSG-00732,Warning: A confidential document is waiting. Enter your account password to view it.,phishing,phishing_document_alert
+MSG-00044,For your information: Your recent payment has been recorded. The receipt is available online.,legitimate,legitimate_billing
+MSG-00541,Important notice: Your account will be disabled unless you verify your login details immediately. Verify your details immediately.,phishing,phishing_account_alert
+MSG-00098,Reminder: Your support request has been received. Check its status through the official support portal.,legitimate,legitimate_support
+MSG-00580,Your password has expired. Verify your credentials immediately to restore access. Do not delay this action.,phishing,phishing_password_alert
+MSG-00340,"Hello, Your assignment submission deadline is Monday. Check your course portal for the requirements. Please use the official website or portal.",legitimate,legitimate_assignment
+MSG-00445,Please note: Tomorrow's lecture will begin at 9 AM in the usual classroom. Contact the official office if you need assistance.,legitimate,legitimate_classroom
+MSG-00728,Important notice: A confidential document is waiting. Enter your account password to view it. Failure to respond may restrict access.,phishing,phishing_document_alert
+MSG-00085,Information: A new sign-in was recorded. Review your security settings through the official website if needed. Please use the official website or portal.,legitimate,legitimate_security
+MSG-00176,"You requested a password reset. If this was you, continue through the official website. Contact the official office if you need assistance.",legitimate,legitimate_password
+MSG-00696,Warning: Your account security is at risk. Confirm your login details immediately.,phishing,phishing_security_alert
+MSG-00058,"Hello, Your monthly bill is available in your account.",legitimate,legitimate_billing
+MSG-00488,"Hello, The college cultural event will take place next Friday. Refer to the official college notice.",legitimate,legitimate_campus_event
+MSG-00768,Immediate action required: Your refund is pending. Submit your banking credentials to receive the payment. Act now to avoid suspension.,phishing,phishing_refund_alert
+MSG-00387,Notice: Your examination hall allocation is available through the official college portal. Please review the details when convenient.,legitimate,legitimate_examination
+MSG-00731,Urgent: Verify your credentials to access this urgent document. Verify your details immediately.,phishing,phishing_document_alert
+MSG-00689,Immediate action required: Your account security is at risk. Confirm your login details immediately. Act now to avoid suspension.,phishing,phishing_security_alert
+MSG-00096,Reminder: Your security settings were updated. Contact official support if you did not make this change. Please use the official website or portal.,legitimate,legitimate_security
+MSG-00033,Notice: Your recent payment has been recorded. The receipt is available online.,legitimate,legitimate_billing
+MSG-00083,Update: A new sign-in was recorded. Review your security settings through the official website if needed.,legitimate,legitimate_security
+MSG-00308,Update: The department meeting agenda is available from your department office. Thank you.,legitimate,legitimate_department_meeting
+MSG-00232,"Hello, Your subscription payment receipt is available in your account. Thank you.",legitimate,legitimate_subscription
+MSG-00250,Information: Your subscription payment receipt is available in your account. Contact the official office if you need assistance.,legitimate,legitimate_subscription
+MSG-00579,Account notice: Your password has expired. Verify your credentials immediately to restore access.,phishing,phishing_password_alert
+MSG-00471,For your information: Your attendance summary is available through the college portal.,legitimate,legitimate_attendance
+MSG-00416,Reminder: Your examination hall allocation is available through the official college portal. Please review the details when convenient.,legitimate,legitimate_examination
+MSG-00692,Important notice: Suspicious activity detected. Verify your credentials to prevent account closure. Verify your details immediately.,phishing,phishing_security_alert
+MSG-00081,For your information: A new sign-in was recorded. Review your security settings through the official website if needed. Please use the official website or portal.,legitimate,legitimate_security
+MSG-00407,For your information: Your examination hall allocation is available through the official college portal. Contact the official office if you need assistance.,legitimate,legitimate_examination
+MSG-00274,Information: Your weekly class timetable is available from your college office. Please review the details when convenient.,legitimate,legitimate_college_timetable
+MSG-00363,The library will remain closed on Sunday. Normal opening hours resume on Monday. Thank you.,legitimate,legitimate_library
+MSG-00259,Information: Your weekly class timetable is available from your college office. Please use the official website or portal.,legitimate,legitimate_college_timetable
+MSG-00540,Security alert: Your account is restricted. Verify your credentials immediately. Act now to avoid suspension.,phishing,phishing_account_alert
+MSG-00635,Urgent: Delivery failed. Confirm your account information to reschedule your package. Do not delay this action.,phishing,phishing_delivery_alert
+MSG-00197,"Hello, The meeting agenda is available in the shared workspace.",legitimate,legitimate_meeting
+MSG-00247,Reminder: Your subscription payment receipt is available in your account.,legitimate,legitimate_subscription
+MSG-00153,Your package is scheduled for delivery. Check the official tracking service for details. Please use the official website or portal.,legitimate,legitimate_delivery
+MSG-00708,Verify your credentials to access this urgent document. Act now to avoid suspension.,phishing,phishing_document_alert
+MSG-00099,Update: Your support request has been received. Check its status through the official support portal. Please review the details when convenient.,legitimate,legitimate_support
+MSG-00110,Reminder: Your support request has been received. Check its status through the official support portal. Please review the details when convenient.,legitimate,legitimate_support
+MSG-00184,"Hello, You requested a password reset. If this was you, continue through the official website. Thank you.",legitimate,legitimate_password
+MSG-00441,Today's class has been moved to Room 204. Confirm the update with your department. Please review the details when convenient.,legitimate,legitimate_classroom
+MSG-00515,Security alert: Your account will be disabled unless you verify your login details immediately. Failure to respond may restrict access.,phishing,phishing_account_alert
+MSG-00677,Warning: Your account security is at risk. Confirm your login details immediately. Do not delay this action.,phishing,phishing_security_alert
+MSG-00294,The department meeting agenda is available from your department office. Thank you.,legitimate,legitimate_department_meeting
+MSG-00549,Urgent: Submit your account details immediately to prevent payment service interruption. Do not delay this action.,phishing,phishing_payment_alert
+MSG-00282,For your information: The updated class timetable is available on the official college notice board. Thank you.,legitimate,legitimate_college_timetable
+MSG-00543,Security alert: Your account is restricted. Verify your credentials immediately. Verify your details immediately.,phishing,phishing_account_alert
+MSG-00018,Notice: Your account statement is available through the official website. Contact the official office if you need assistance.,legitimate,legitimate_account
+MSG-00013,Your monthly account summary is ready for review. Contact the official office if you need assistance.,legitimate,legitimate_account
+MSG-00422,Notice: Today's class has been moved to Room 204. Confirm the update with your department. Please review the details when convenient.,legitimate,legitimate_classroom
+MSG-00565,Urgent: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Verify your details immediately.,phishing,phishing_payment_alert
+MSG-00545,Your payment failed. Confirm your banking credentials immediately to avoid suspension.,phishing,phishing_payment_alert
+MSG-00703,Security alert: Suspicious activity detected. Verify your credentials to prevent account closure. Failure to respond may restrict access.,phishing,phishing_security_alert
+MSG-00742,Security alert: Confirm your payment information immediately to process your refund. Do not delay this action.,phishing,phishing_refund_alert
+MSG-00500,Registration details for the campus event are available through the official college website. Please use the official website or portal.,legitimate,legitimate_campus_event
+MSG-00676,Important notice: Suspicious activity detected. Verify your credentials to prevent account closure. Verify your details immediately.,phishing,phishing_security_alert
+MSG-00495,Reminder: The college cultural event will take place next Friday. Refer to the official college notice.,legitimate,legitimate_campus_event
+MSG-00632,Security alert: Your package is on hold. Submit your personal details to release the delivery. Failure to respond may restrict access.,phishing,phishing_delivery_alert
+MSG-00683,Security alert: Your account security is at risk. Confirm your login details immediately. Act now to avoid suspension.,phishing,phishing_security_alert
+MSG-00654,Immediate action required: Congratulations! Verify your account details to receive your prize. Verify your details immediately.,phishing,phishing_reward_alert
+MSG-00633,Warning: Delivery failed. Confirm your account information to reschedule your package. Do not delay this action.,phishing,phishing_delivery_alert
+MSG-00062,Information: Your recent payment has been recorded. The receipt is available online.,legitimate,legitimate_billing
+MSG-00383,"Hello, The library will remain closed on Sunday. Normal opening hours resume on Monday. Contact the official office if you need assistance.",legitimate,legitimate_library
+MSG-00467,Reminder: Your attendance summary is available through the college portal.,legitimate,legitimate_attendance
+MSG-00518,Account notice: Your account is restricted. Verify your credentials immediately. Verify your details immediately.,phishing,phishing_account_alert
+MSG-00224,Reminder: The meeting agenda is available in the shared workspace. Please use the official website or portal.,legitimate,legitimate_meeting
+MSG-00010,Information: Your account statement is available through the official website. Please review the details when convenient.,legitimate,legitimate_account
+MSG-00155,For your information: Your delivery status has been updated on the official delivery service website. Please use the official website or portal.,legitimate,legitimate_delivery
+MSG-00070,Notice: A new sign-in was recorded. Review your security settings through the official website if needed. Contact the official office if you need assistance.,legitimate,legitimate_security
+MSG-00237,Notice: Your subscription payment receipt is available in your account. Thank you.,legitimate,legitimate_subscription
+MSG-00646,Security alert: Congratulations! Verify your account details to receive your prize. Verify your details immediately.,phishing,phishing_reward_alert
+MSG-00141,For your information: Your package is scheduled for delivery. Check the official tracking service for details. Contact the official office if you need assistance.,legitimate,legitimate_delivery
+MSG-00423,Please note: Today's class has been moved to Room 204. Confirm the update with your department. Contact the official office if you need assistance.,legitimate,legitimate_classroom
+MSG-00007,Information: Your monthly account summary is ready for review. Contact the official office if you need assistance.,legitimate,legitimate_account
+MSG-00050,Information: Your recent payment has been recorded. The receipt is available online. Please use the official website or portal.,legitimate,legitimate_billing
+MSG-00685,Security alert: Your account security is at risk. Confirm your login details immediately. Verify your details immediately.,phishing,phishing_security_alert
+MSG-00077,Reminder: Your security settings were updated. Contact official support if you did not make this change. Contact the official office if you need assistance.,legitimate,legitimate_security
+MSG-00035,Notice: Your recent payment has been recorded. The receipt is available online. Contact the official office if you need assistance.,legitimate,legitimate_billing
+MSG-00537,Your account will be disabled unless you verify your login details immediately. Act now to avoid suspension.,phishing,phishing_account_alert
+MSG-00061,Information: Your recent payment has been recorded. The receipt is available online. Contact the official office if you need assistance.,legitimate,legitimate_billing
+MSG-00721,Account notice: A confidential document is waiting. Enter your account password to view it. Failure to respond may restrict access.,phishing,phishing_document_alert
+MSG-00556,Account notice: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Verify your details immediately.,phishing,phishing_payment_alert
+MSG-00189,"For your information: You requested a password reset. If this was you, continue through the official website. Please review the details when convenient.",legitimate,legitimate_password
+MSG-00722,Immediate action required: Verify your credentials to access this urgent document. Failure to respond may restrict access.,phishing,phishing_document_alert
+MSG-00560,Immediate action required: Submit your account details immediately to prevent payment service interruption. Do not delay this action.,phishing,phishing_payment_alert
+MSG-00144,"Hello, Your package is scheduled for delivery. Check the official tracking service for details.",legitimate,legitimate_delivery
+MSG-00174,"Please note: You requested a password reset. If this was you, continue through the official website. Please review the details when convenient.",legitimate,legitimate_password
+MSG-00361,Reminder: The library will remain closed on Sunday. Normal opening hours resume on Monday. Thank you.,legitimate,legitimate_library
+MSG-00173,Please note: Your password reset request has been received. Visit the official website directly if you need to review it. Contact the official office if you need assistance.,legitimate,legitimate_password
+MSG-00472,"Hello, The monthly attendance report is available from your department office. Thank you.",legitimate,legitimate_attendance
+MSG-00503,Notice: Registration details for the campus event are available through the official college website. Please use the official website or portal.,legitimate,legitimate_campus_event
+MSG-00658,Urgent: Congratulations! Verify your account details to receive your prize. Act now to avoid suspension.,phishing,phishing_reward_alert
+MSG-00501,Information: Registration details for the campus event are available through the official college website. Please use the official website or portal.,legitimate,legitimate_campus_event
+MSG-00264,"Hello, The updated class timetable is available on the official college notice board. Contact the official office if you need assistance.",legitimate,legitimate_college_timetable
+MSG-00346,Please note: Your assignment submission deadline is Monday. Check your course portal for the requirements. Contact the official office if you need assistance.,legitimate,legitimate_assignment
+MSG-00702,Account notice: Suspicious activity detected. Verify your credentials to prevent account closure. Act now to avoid suspension.,phishing,phishing_security_alert
+MSG-00671,Security alert: You have won a special reward. Submit your personal information to claim it.,phishing,phishing_reward_alert
+MSG-00564,Account notice: Submit your account details immediately to prevent payment service interruption. Do not delay this action.,phishing,phishing_payment_alert
+MSG-00512,For your information: The college cultural event will take place next Friday. Refer to the official college notice.,legitimate,legitimate_campus_event
+MSG-00252,Update: Your subscription payment receipt is available in your account.,legitimate,legitimate_subscription
+MSG-00584,Warning: Confirm your password immediately to avoid account suspension. Verify your details immediately.,phishing,phishing_password_alert
+MSG-00389,Notice: Your examination hall allocation is available through the official college portal. Contact the official office if you need assistance.,legitimate,legitimate_examination
+MSG-00236,Update: Your subscription renewal date is approaching. Review your plan through the official account portal. Thank you.,legitimate,legitimate_subscription
+MSG-00338,Please note: The assignment instructions are available through your official course portal. Please review the details when convenient.,legitimate,legitimate_assignment
+MSG-00201,Update: The meeting agenda is available in the shared workspace. Please use the official website or portal.,legitimate,legitimate_meeting
+MSG-00157,For your information: Your package is scheduled for delivery. Check the official tracking service for details. Thank you.,legitimate,legitimate_delivery
+MSG-00303,Notice: The department meeting is scheduled for Friday at 10 AM. Contact the official office if you need assistance.,legitimate,legitimate_department_meeting
+MSG-00428,Please note: Today's class has been moved to Room 204. Confirm the update with your department. Please use the official website or portal.,legitimate,legitimate_classroom
+MSG-00594,Confirm your password immediately to avoid account suspension. Verify your details immediately.,phishing,phishing_password_alert
+MSG-00599,Security alert: Confirm your password immediately to avoid account suspension. Verify your details immediately.,phishing,phishing_password_alert
+MSG-00567,Urgent: Submit your account details immediately to prevent payment service interruption. Do not delay this action.,phishing,phishing_payment_alert
+MSG-00759,Immediate action required: Your refund is pending. Submit your banking credentials to receive the payment. Verify your details immediately.,phishing,phishing_refund_alert
+MSG-00017,Reminder: Your account statement is available through the official website.,legitimate,legitimate_account
+MSG-00150,Information: Your package is scheduled for delivery. Check the official tracking service for details. Thank you.,legitimate,legitimate_delivery
+MSG-00227,Reminder: Your subscription renewal date is approaching. Review your plan through the official account portal.,legitimate,legitimate_subscription
+MSG-00577,Urgent: Your password has expired. Verify your credentials immediately to restore access. Do not delay this action.,phishing,phishing_password_alert
+MSG-00047,Notice: Your monthly bill is available in your account. Contact the official office if you need assistance.,legitimate,legitimate_billing
+MSG-00424,Notice: Today's class has been moved to Room 204. Confirm the update with your department. Contact the official office if you need assistance.,legitimate,legitimate_classroom
+MSG-00321,Please note: Your assignment submission deadline is Monday. Check your course portal for the requirements. Please review the details when convenient.,legitimate,legitimate_assignment
+MSG-00380,Please note: The library will remain closed on Sunday. Normal opening hours resume on Monday. Contact the official office if you need assistance.,legitimate,legitimate_library
+MSG-00209,"Hello, The meeting agenda is available in the shared workspace. Please review the details when convenient.",legitimate,legitimate_meeting
+MSG-00328,Reminder: Your assignment submission deadline is Monday. Check your course portal for the requirements. Please review the details when convenient.,legitimate,legitimate_assignment
+MSG-00481,Update: The college cultural event will take place next Friday. Refer to the official college notice. Please review the details when convenient.,legitimate,legitimate_campus_event
+MSG-00740,Security alert: Your refund is pending. Submit your banking credentials to receive the payment. Verify your details immediately.,phishing,phishing_refund_alert
+MSG-00101,Reminder: Your support request has been received. Check its status through the official support portal. Please use the official website or portal.,legitimate,legitimate_support
+MSG-00764,Immediate action required: Your refund is pending. Submit your banking credentials to receive the payment. Act now to avoid suspension.,phishing,phishing_refund_alert
+MSG-00510,Update: Registration details for the campus event are available through the official college website. Contact the official office if you need assistance.,legitimate,legitimate_campus_event
+MSG-00526,Security alert: Your account is restricted. Verify your credentials immediately. Verify your details immediately.,phishing,phishing_account_alert
+MSG-00369,For your information: The library will remain closed on Sunday. Normal opening hours resume on Monday. Please use the official website or portal.,legitimate,legitimate_library
+MSG-00268,For your information: Your weekly class timetable is available from your college office.,legitimate,legitimate_college_timetable
+MSG-00316,Reminder: The department meeting agenda is available from your department office. Contact the official office if you need assistance.,legitimate,legitimate_department_meeting
+MSG-00368,For your information: Your requested library book is available for collection during normal library hours. Please review the details when convenient.,legitimate,legitimate_library
+MSG-00665,Warning: You have won a special reward. Submit your personal information to claim it. Act now to avoid suspension.,phishing,phishing_reward_alert
+MSG-00547,Security alert: Submit your account details immediately to prevent payment service interruption.,phishing,phishing_payment_alert
+MSG-00478,Update: Your attendance summary is available through the college portal. Please review the details when convenient.,legitimate,legitimate_attendance
+MSG-00390,Please note: Your examination hall allocation is available through the official college portal.,legitimate,legitimate_examination
+MSG-00290,Information: The department meeting agenda is available from your department office. Thank you.,legitimate,legitimate_department_meeting
+MSG-00330,"Hello, Your assignment submission deadline is Monday. Check your course portal for the requirements. Please use the official website or portal.",legitimate,legitimate_assignment
+MSG-00566,Immediate action required: Your payment failed. Confirm your banking credentials immediately to avoid suspension. Failure to respond may restrict access.,phishing,phishing_payment_alert

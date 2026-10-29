@@ -1,0 +1,43 @@
+{
+    "total_messages": 640,
+    "training_messages": 426,
+    "testing_messages": 214,
+    "training_campaigns": [
+        "legitimate_attendance",
+        "legitimate_billing",
+        "legitimate_campus_event",
+        "legitimate_classroom",
+        "legitimate_college_timetable",
+        "legitimate_delivery",
+        "legitimate_library",
+        "legitimate_password",
+        "legitimate_subscription",
+        "legitimate_support",
+        "phishing_delivery_alert",
+        "phishing_password_alert",
+        "phishing_payment_alert",
+        "phishing_refund_alert",
+        "phishing_reward_alert",
+        "phishing_security_alert"
+    ],
+    "testing_campaigns": [
+        "legitimate_account",
+        "legitimate_assignment",
+        "legitimate_department_meeting",
+        "legitimate_examination",
+        "legitimate_meeting",
+        "legitimate_security",
+        "phishing_account_alert",
+        "phishing_document_alert"
+    ],
+    "campaign_overlap": [],
+    "training_label_distribution": {
+        "legitimate": 275,
+        "phishing": 151
+    },
+    "testing_label_distribution": {
+        "legitimate": 158,
+        "phishing": 56
+    },
+    "random_state": 42
+}

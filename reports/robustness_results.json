@@ -1,0 +1,58 @@
+{
+    "total_tests": 8,
+    "baseline_prediction": "phishing",
+    "capitalization_punctuation_tests": 2,
+    "consistent_variations": 2,
+    "consistency_rate": 1.0,
+    "results": [
+        {
+            "test_id": "ROB-01",
+            "category": "baseline",
+            "message": "Urgent: Your account is restricted. Verify your credentials immediately.",
+            "prediction": "phishing"
+        },
+        {
+            "test_id": "ROB-02",
+            "category": "capitalization",
+            "message": "URGENT: YOUR ACCOUNT IS RESTRICTED. VERIFY YOUR CREDENTIALS IMMEDIATELY.",
+            "prediction": "phishing"
+        },
+        {
+            "test_id": "ROB-03",
+            "category": "punctuation",
+            "message": "Urgent!!! Your account is restricted... Verify your credentials immediately!!!",
+            "prediction": "phishing"
+        },
+        {
+            "test_id": "ROB-04",
+            "category": "wording",
+            "message": "Your account access has been limited. Please check your account status.",
+            "prediction": "legitimate"
+        },
+        {
+            "test_id": "ROB-05",
+            "category": "legitimate",
+            "message": "Your weekly class timetable is available from your college office.",
+            "prediction": "legitimate"
+        },
+        {
+            "test_id": "ROB-06",
+            "category": "legitimate",
+            "message": "The department meeting is scheduled for Friday at 10 AM.",
+            "prediction": "legitimate"
+        },
+        {
+            "test_id": "ROB-07",
+            "category": "password_reset",
+            "message": "You requested a password reset. If this was not you, contact the service using its official website.",
+            "prediction": "legitimate"
+        },
+        {
+            "test_id": "ROB-08",
+            "category": "defanged_url",
+            "message": "Account notice: review the details at hxxps://account-check[.]example",
+            "prediction": "legitimate"
+        }
+    ],
+    "note": "These are controlled synthetic examples. Consistency does not establish real-world accuracy."
+}

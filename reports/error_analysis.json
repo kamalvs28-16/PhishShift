@@ -1,0 +1,6 @@
+{
+    "messages_analyzed": 288,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "evaluation_note": "This analysis uses the complete cleaned dataset, including training examples. These results are diagnostic only and are not an unbiased estimate of model performance."
+}
